@@ -4,26 +4,22 @@ A simple MCP server which allows querying PDFs and Notes from Zotero.
 
 from typing import Tuple, List, Dict
 import os
-import logging
 from dotenv import load_dotenv
 
 from mcp.server.fastmcp import FastMCP
 from pyzotero import zotero
 #from bs4 import BeautifulSoup
 
-from .parser import note_parser
+from .log import logger
+from .parser import note_title_parser
+
 
 # Load envs
 load_dotenv()
 LIBRARY_ID = os.getenv("LIBRARY_ID")
 LIBRARY_TYPE = os.getenv("LIBRARY_TYPE")
 
-logging.basicConfig(
-    level=logging.INFO,
-    datefmt='%Y-%m-%d %H:%M:%S',
-    format="%(asctime)s - %(levelname)s - %(message)s"
-)
-logger = logging.getLogger(__name__)
+
 
 # Setup
 zotero_client = zotero.Zotero(library_id=LIBRARY_ID,
@@ -70,16 +66,17 @@ def pyzotero_search_parser(found_items: List) -> Dict:
         item_data = found_item["data"]
         item_type = item_data["itemType"]
         item_collection_keys = item_data["collections"]
+
         item_collection_names = [
             get_parent_collections(item_collection_key)[0]
             for item_collection_key in item_collection_keys
         ]
 
-        if item_type not in search_results.keys():
+        if item_type not in search_results:
             search_results[item_type] = []
 
         if item_type=="note":
-            item_title = note_parser(item_data["note"])
+            item_title = note_title_parser(item_data["note"])
             search_results[item_type].append({
                 "itemKey": item_key,
                 "itemType": item_type,
