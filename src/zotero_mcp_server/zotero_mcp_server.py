@@ -19,22 +19,21 @@ load_dotenv()
 LIBRARY_ID = os.getenv("LIBRARY_ID")
 LIBRARY_TYPE = os.getenv("LIBRARY_TYPE")
 
-
-
 # Setup
 zotero_client = zotero.Zotero(library_id=LIBRARY_ID,
                                 library_type=LIBRARY_TYPE,
                                 local=True)
 
 mcp = FastMCP(name="ZoteroMCPServer",
-                    version = "0.1.0"
-                  )
+                version = "0.1.0")
 
 @mcp.tool()
 def search_zotero_library(limit: int, query: str):
     """Search zotero library via text query""" # TODO extend the description
 
     found_items = pyzotero_search_library(limit=limit, query=query)
+    if not found_items:
+        return "No items found!"
 
     parsed_items = pyzotero_search_parser(found_items=found_items)
 
@@ -64,18 +63,30 @@ def pyzotero_search_parser(found_items: List) -> Dict:
                                 but is of type: {type(found_item)}.")
         item_key = found_item["key"]
         item_data = found_item["data"]
-        item_type = item_data["itemType"]
-        item_collection_keys = item_data["collections"]
+        item_type = item_data["itemType"] 
 
-        item_collection_names = [
-            get_parent_collections(item_collection_key)[0]
-            for item_collection_key in item_collection_keys
-        ]
 
         if item_type not in search_results:
             search_results[item_type] = []
 
         if item_type=="note":
+            
+            ### TODO bring this back out of the note type
+            item_collection_keys = item_data.get("collections", None)
+            if not item_collection_keys:
+                break # TODO need to implement a function which also goes up to parentItems (which are items and then to collections)
+            assert isinstance(item_collection_keys, list)
+            if isinstance(item_collection_keys[0], dict):
+                item_collection_keys = [item_collection_key for item_collection_num_key \
+                                            in item_collection_keys for item_collection_key \
+                                                in item_collection_num_key.values()]
+
+            item_collection_names = [
+            get_parent_collections(item_collection_key)[0]
+            for item_collection_key in item_collection_keys
+            ]
+            ###
+
             item_title = note_title_parser(item_data["note"])
             search_results[item_type].append({
                 "itemKey": item_key,
@@ -84,7 +95,9 @@ def pyzotero_search_parser(found_items: List) -> Dict:
                 "itemCollectionNames": item_collection_names
             })
         else:
-            print("Not Implemented!")
+            # TODO write parser for other item types
+            #search_results[item_type].append(found_item)
+            pass
 
     return search_results
 
