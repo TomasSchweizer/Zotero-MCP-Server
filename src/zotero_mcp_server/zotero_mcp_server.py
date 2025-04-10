@@ -11,7 +11,7 @@ from pyzotero import zotero
 #from bs4 import BeautifulSoup
 
 from .log import logger
-from .parser import note_title_parser
+from .parser import note_parser
 
 
 # Load envs
@@ -52,7 +52,7 @@ def search_zotero_library(limit: int, query: str) -> Dict:
               Returns "No items found!" if no matching items are found.
 
     """
-    
+
     found_items = pyzotero_search_library(limit=limit, query=query)
     if not found_items:
         return {"message": "No items found!"}
@@ -109,6 +109,7 @@ def pyzotero_search_parser(found_items: List) -> Dict:
                                         but is of type: {type(found_item)}.")
                 item_parent_data = item_parent["data"]
                 item_parent_title = item_parent_data["title"]
+                logger.info("Item has a parent item with key: %s and title: %s", item_parent_key, item_parent_title)
                 item_collection_keys = item_parent_data.get("collections", None)
 
             assert isinstance(item_collection_keys, list)
@@ -123,7 +124,7 @@ def pyzotero_search_parser(found_items: List) -> Dict:
             ]
             ###
 
-            item_title = note_title_parser(item_data["note"])
+            item_title = note_parser(item_data["note"])
             search_results[item_type].append({
                 "itemKey": item_key,
                 "itemType": item_type,
