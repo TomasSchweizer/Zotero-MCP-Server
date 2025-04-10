@@ -28,12 +28,34 @@ mcp = FastMCP(name="ZoteroMCPServer",
                 version = "0.1.0")
 
 @mcp.tool()
-def search_zotero_library(limit: int, query: str):
-    """Search zotero library via text query""" # TODO extend the description
+def search_zotero_library(limit: int, query: str) -> Dict:
+    """
+    Search the user's Zotero library for items matching a text query.
 
+    This tool allows you to find items within the user's Zotero library
+    based on a text-based search query. You can specify the maximum number
+    of results to return.
+
+    Args:
+        limit (int): The maximum number of search results to return.
+                     Must be a positive integer.
+        query (str): The text query to search for within the Zotero library.
+                     This can include keywords, author names, titles, etc.
+    Returns:
+        Dict: A dictionary where keys are Zotero item types (e.g., "note")
+              and values are lists of dictionaries containing parsed information
+              for each found item of that type. For "note" items, the
+              information includes the item key, type, title (parsed from the
+              note content), the title of its parent item (if any), and the
+              names of the collections it belongs to. Other item types might
+              have less detailed information.
+              Returns "No items found!" if no matching items are found.
+
+    """
+    
     found_items = pyzotero_search_library(limit=limit, query=query)
     if not found_items:
-        return "No items found!"
+        return {"message": "No items found!"}
 
     parsed_items = pyzotero_search_parser(found_items=found_items)
 
@@ -42,7 +64,7 @@ def search_zotero_library(limit: int, query: str):
 def pyzotero_search_library(limit: int, query: str) -> List:
     """Search zotero library using pyzotero via text query"""
     zotero_client.add_parameters(limit=limit, q=query, qmode="everything")
-    found_items = zotero_client.items() # type: ignore 
+    found_items : List = zotero_client.items() # type: ignore
     logger.info("Search results: %d item(s) found%s",
             len(found_items),
             '' if found_items else ' - no items match the search query')
@@ -56,6 +78,11 @@ def pyzotero_search_parser(found_items: List) -> Dict:
     """Parse the found items of the zotero client"""
 
     search_results = {}
+    item_key = None
+    item_type = None
+    item_title = None
+    item_parent_title = None
+    item_collection_names = None
 
     for found_item in found_items:
         if not isinstance(found_item, dict):
@@ -63,8 +90,7 @@ def pyzotero_search_parser(found_items: List) -> Dict:
                                 but is of type: {type(found_item)}.")
         item_key = found_item["key"]
         item_data = found_item["data"]
-        item_type = item_data["itemType"] 
-
+        item_type = item_data["itemType"]
 
         if item_type not in search_results:
             search_results[item_type] = []
@@ -74,7 +100,17 @@ def pyzotero_search_parser(found_items: List) -> Dict:
             ### TODO bring this back out of the note type
             item_collection_keys = item_data.get("collections", None)
             if not item_collection_keys:
-                break # TODO need to implement a function which also goes up to parentItems (which are items and then to collections)
+                item_parent_key = item_data.get("parentItem", None)
+                if not item_parent_key:
+                    break
+                item_parent : Dict = zotero_client.item(item_parent_key) # type: ignore
+                if not isinstance(item_parent, dict):
+                    raise TypeError(f"The found item need to be a of type {type(dict())}, \
+                                        but is of type: {type(found_item)}.")
+                item_parent_data = item_parent["data"]
+                item_parent_title = item_parent_data["title"]
+                item_collection_keys = item_parent_data.get("collections", None)
+
             assert isinstance(item_collection_keys, list)
             if isinstance(item_collection_keys[0], dict):
                 item_collection_keys = [item_collection_key for item_collection_num_key \
@@ -92,12 +128,15 @@ def pyzotero_search_parser(found_items: List) -> Dict:
                 "itemKey": item_key,
                 "itemType": item_type,
                 "itemTitle": item_title,
+                "itemParentTitle": item_parent_title,
                 "itemCollectionNames": item_collection_names
             })
+            item_parent_title = None
         else:
             # TODO write parser for other item types
             #search_results[item_type].append(found_item)
             pass
+    search_results["message"] = f"Search results: {len(found_items)} item(s) found"
 
     return search_results
 
@@ -113,7 +152,7 @@ def get_parent_collections(collection_key: str, depth: int = 0) -> Tuple[List[st
         A list of collection names from parent to child with reversed depth numbering.
     """
     # For debugging, you can print the current depth
-    print(f"{'  ' * depth}Depth {depth}: Processing collection key: {collection_key}")
+    logger.info("Depth %d: Processing collection key: %s", depth, collection_key)
 
     collection_dict: Dict = zotero_client.collection(collection_key) # type: ignore
     assert isinstance(collection_dict, dict)
