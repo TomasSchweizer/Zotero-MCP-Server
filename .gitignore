@@ -6,6 +6,9 @@ dist/
 wheels/
 *.egg-info
 
+# Archiv
+archiv
+
 # Notebooks
 notebooks
 *.ipynb
