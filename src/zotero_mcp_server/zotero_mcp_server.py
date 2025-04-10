@@ -11,7 +11,7 @@ from pyzotero import zotero
 #from bs4 import BeautifulSoup
 
 from .log import logger
-from .parser import note_parser
+from .pyzotero_wrapper import note_parser
 
 
 # Load envs
