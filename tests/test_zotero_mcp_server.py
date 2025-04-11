@@ -5,7 +5,7 @@ import json
 
 import pytest
 
-from zotero_mcp_server.zotero_mcp_server import ZoteroMCPServer
+from zotero_mcp_server.zotero_mcp_server import search_zotero_library
 from zotero_mcp_server.pyzotero_wrapper import PyzoteroClient, NotePyzoteroParsingStrategy, ItemPyzoteroParsingStrategy, PyzoteroParser
 
 
@@ -15,6 +15,25 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 test_logger = logging.getLogger(__name__)
+
+
+@pytest.mark.parametrize("limit, query",[(10, "OWASP")])
+def test_search_zotero_library(limit: int, query: str) -> None:
+    """Test pyzotero search library function"""
+    test_logger.info("Running test with limit: %d and query: %s", limit, query)
+    assert isinstance(limit, int)
+    assert isinstance(query, str)
+
+    _, parsed_items_metadata = search_zotero_library(limit, query)
+
+    assert isinstance(parsed_items_metadata, list)
+    if parsed_items_metadata:
+        for parsed_item_metadata in parsed_items_metadata:
+            assert isinstance(parsed_item_metadata, dict)
+
+
+
+
 
 @pytest.fixture(scope="function", name="static_pyzotero_items_fixture")
 def static_pyzotero_items():

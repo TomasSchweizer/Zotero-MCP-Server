@@ -27,6 +27,9 @@ class PyzoteroClient(zotero.Zotero):
         _assert_list(found_items)
         return found_items
     
+    def retrieve_item(self, item_key: str) -> Dict:
+        """Retrieve item via key from zotero libary"""
+        return self.item(item_key) # type: ignore
 
 class PyzoteroParsingStrategy(ABC):
     """Abstract pyzoter parsing class, template for parsers for specific item types"""
@@ -45,7 +48,7 @@ class PyzoteroParsingStrategy(ABC):
 class NotePyzoteroParsingStrategy(PyzoteroParsingStrategy):
     """Parser for zotero notes"""
 
-    def parse_title(self, item_data: Dict, item_parent_data: Dict | None = None) -> str:
+    def parse_title(self, item_data: Dict, item_parent_data: Dict | None = None) -> Tuple[str | None, str | None]:
         """Parse the title of a note item from note field"""
 
         note_html = item_data.get("note")
@@ -66,7 +69,8 @@ class NotePyzoteroParsingStrategy(PyzoteroParsingStrategy):
             note_title = note_div.contents[0].get_text() # type: ignore
             logger.info("Found no note title inside h1 tag, therefore took first element: %s", note_title)
 
-        return note_title
+        item_parent_title = item_parent_data.get("title") # type: ignore
+        return note_title, item_parent_title
 
     def parse_content(self, item_data: Dict) -> Dict:
         """Parse the content for a item for the LLM"""
@@ -75,10 +79,10 @@ class NotePyzoteroParsingStrategy(PyzoteroParsingStrategy):
 
 class ItemPyzoteroParsingStrategy(PyzoteroParsingStrategy):
     """Parser for zotero items besides notes"""
-    def parse_title(self, item_data: Dict, item_parent_data: Dict | None) -> str | None:
+    def parse_title(self, item_data: Dict, item_parent_data: Dict | None) -> Tuple[str | None, str | None]:
         """Extract title from parent item, because more informative"""
         # For all items besides notes the item_parent_title is more informative than the item title
-        return item_parent_data.get("title") # type: ignore
+        return item_data.get("title"), item_parent_data.get("title") # type: ignore
 
     def parse_content(self, item_data: Dict)  -> Dict:
         """Parse the content for a item for the LLM"""
@@ -96,8 +100,10 @@ class PyzoteroParser:
     def auto_set_strategy(self, item_type: str | None, item_content_type: str | None, item_data: Dict,
                            item_parent_type: str | None, item_parent_content_type: str | None, item_parent_data: Dict):
         """"""
-        if item_content_type.startswith("image/") and item_parent_type == "note": # type: ignore
-            pass # Pass because these are embedded images in notes, which are not relevant currently for title parsing
+        # Pass because these are embedded images in notes, which are not relevant currently for title parsing
+        # if item_content_type.startswith("image/") and item_parent_type == "note": # type: ignore
+        #     pass
+        
         if item_type == "note":
             self.set_strategy(NotePyzoteroParsingStrategy())
         else:
@@ -142,12 +148,13 @@ class PyzoteroParser:
         self.auto_set_strategy(item_type, item_content_type, item_data,
                                item_parent_type, item_parent_content_type, item_parent_data)
         
-        item_title = self._strategy.parse_title(item_data, item_parent_data) #type: ignore
+        item_title, item_parent_title = self._strategy.parse_title(item_data, item_parent_data) #type: ignore
 
         item_metadata = {
             "itemKey": item_key,
             "itemType": item_type,
             "itemTitle": item_title,
+            "itemParentTitle": item_parent_title,
             "itemCollectionNames": item_collection_names
         }
         return item_metadata
