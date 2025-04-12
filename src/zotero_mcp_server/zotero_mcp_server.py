@@ -1,7 +1,6 @@
 """
 A simple MCP server which allows querying PDFs and Notes from Zotero.
 """
-
 from typing import Tuple, List, Dict
 import os
 from dotenv import load_dotenv
@@ -62,9 +61,36 @@ def search_zotero_library(limit: int, query: str) -> Tuple[str, List]:
             parsed_items_metadata
 
 @mcp.tool()
-def retriev_zotero_item(item_key: str) -> Dict:
-    """"""
-    return pyzotero_client.retrieve_item(item_key)
+def retrieve_zotero_item_content(item_key: str) -> Dict:
+    """
+    Retrieve and parse the content of a specific Zotero item by its key.
+    
+    This function retrieves a single item from the Zotero library using its unique key,
+    then parses the item's content into a structured format suitable for processing.
+    The parsing strategy is automatically determined based on the item type (note, PDF, etc.).
+    
+    Args:
+        item_key (str): The unique identifier key of the Zotero item to retrieve.
+    
+    Returns:
+        Dict: A dictionary containing the parsed item content with the following keys:
+            - "itemKey": The unique key identifier of the item.
+            - "itemTitle": The title of the item, extracted based on item type.
+            - "itemContent": The content of the item, which varies by type:
+                - For notes: HTML content of the note
+                - For PDFs: Extracted text content
+                - For other items: May contain minimal or empty content
+    
+    Example:
+        >>> item_content = retrieve_zotero_item("ABC123XYZ")
+        >>> print(item_content["itemTitle"])
+        "Machine Learning Fundamentals"
+    """
+    retrieved_item = pyzotero_client.retrieve_item(item_key)
+
+    parsed_item_content = pyzotero_parser.parse_item_content(retrieved_item)
+
+    return parsed_item_content
 
 if __name__ == "__main__":
     logger.info("Starting ZoteroMCPServer ...")
