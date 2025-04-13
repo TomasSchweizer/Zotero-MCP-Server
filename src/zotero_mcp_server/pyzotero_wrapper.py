@@ -30,20 +30,25 @@ class PyzoteroClient(zotero.Zotero):
         _assert_list(found_items)
         return found_items
 
-    def retrieve_item(self, item_key: str) -> Dict:
-        """Retrieve item via key from zotero libary"""        
-        return self.item(item_key)# type: ignore
+    def retrieve_items(self, item_keys: List) -> List:
+        """Retrieve one or more items via key from zotero libary"""        
+        _assert_list(item_keys)
+        retrieved_items = [self.item(str(item_key)) for item_key in item_keys] # type: ignore
+        return retrieved_items
 
 class PyzoteroParsingStrategy(ABC):
     """Abstract pyzoter parsing class, template for parsers for specific item types"""
 
     @abstractmethod
-    def parse_title(self, item_data: Dict, item_parent_data: Dict | None = None) -> Dict:
-        pass
+    def parse_title(self, item_data: Dict, item_parent_data: Dict) -> Tuple[str | None, str | None]:
+        """Parse the title"""
+        return (None, None)
+
 
     @abstractmethod
     def parse_content(self, item_data: Dict) -> Dict:
-        pass
+        """Parse the content"""
+        return {}
 
 class NotePyzoteroParsingStrategy(PyzoteroParsingStrategy):
     """Parser for zotero notes"""
@@ -121,9 +126,6 @@ class PyzoteroParser:
     def auto_set_strategy(self, item_type: str | None, item_content_type: str | None, item_data: Dict,
                            item_parent_type: str | None = None, item_parent_content_type: str | None = None, item_parent_data: Dict | None = None):
         """"""
-        # Pass because these are embedded images in notes, which are not relevant currently for title parsing
-        # if item_content_type.startswith("image/") and item_parent_type == "note": # type: ignore
-        #     pass
         
         if item_type == "note":
             self.set_strategy(NotePyzoteroParsingStrategy())
@@ -181,7 +183,15 @@ class PyzoteroParser:
         }
         return item_metadata
 
-    def parse_item_content(self, retrieved_item: Dict) -> Dict:
+    def parse_items_content(self, retrieved_items: List) -> List:
+        
+        _assert_list(retrieved_items)
+        parsed_items_content = [self._parse_item_content(retrieved_item) for retrieved_item in retrieved_items]
+
+        return parsed_items_content
+
+
+    def _parse_item_content(self, retrieved_item: Dict) -> Dict:
         """Parses the content of a item for the LLM"""
         _assert_dict(retrieved_item)
         item_key = retrieved_item.get("key")
@@ -256,6 +266,3 @@ def _assert_tag(instance: Any):
     if not isinstance(instance, Tag):
         raise TypeError(f"The found item need to be a of type {type(Tag)}, \
                                 but is of type: {type(instance)}.")
-
-
-

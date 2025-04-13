@@ -61,37 +61,44 @@ def search_zotero_library(limit: int, query: str) -> Tuple[str, List]:
             parsed_items_metadata
 
 @mcp.tool()
-def retrieve_zotero_item_content(item_key: str) -> Dict:
+def retrieve_zotero_items_content(item_keys: List[str]) -> List[Dict[str, str]]:
     """
-    Retrieve and parse the content of a specific Zotero item by its key.
+    Retrieve and parse the content of specific Zotero items by their keys.
     
-    This function retrieves a single item from the Zotero library using its unique key,
-    then parses the item's content into a structured format suitable for processing.
-    The parsing strategy is automatically determined based on the item type (note, PDF, etc.).
+    This function fetches the full content of one or more Zotero items identified by their keys,
+    processes them using the appropriate parser strategy based on item type (note, PDF, etc.),
+    and returns the parsed content in a structured format.
     
     Args:
-        item_key (str): The unique identifier key of the Zotero item to retrieve.
+        item_keys (List[str]): A list of Zotero item keys (unique identifiers) for which 
+            to retrieve and parse content. Each key should be a string.
     
     Returns:
-        Dict: A dictionary containing the parsed item content with the following keys:
-            - "itemKey": The unique key identifier of the item.
-            - "itemTitle": The title of the item, extracted based on item type.
-            - "itemContent": The content of the item, which varies by type:
-                - For notes: HTML content of the note
-                - For PDFs: Extracted text content
-                - For other items: May contain minimal or empty content
+        List[Dict[str, str]]: A list of dictionaries, one for each retrieved item, containing:
+            - "itemKey" (str): The unique key identifier of the Zotero item
+            - "itemTitle" (str): The title of the item
+            - "itemContent" (str or Dict): The parsed content of the item, which may be:
+                - HTML content for notes 
+                - Extracted text for PDFs
+                - Empty dict for items without extractable content
+    
+    Notes:
+        - For PDF attachments, the function extracts and returns the full text content
+        - For notes, the function returns the HTML content of the note
+        - The parsing strategy is automatically determined based on the item type and content type
     
     Example:
-        >>> item_content = retrieve_zotero_item("ABC123XYZ")
-        >>> print(item_content["itemTitle"])
-        "Machine Learning Fundamentals"
+        >>> item_contents = retrieve_zotero_item_content(["ABC123", "DEF456"])
+        >>> print(f"Retrieved {len(item_contents)} items")
+        "Retrieved 2 items"
     """
-    retrieved_item = pyzotero_client.retrieve_item(item_key)
+    retrieved_items = pyzotero_client.retrieve_items(item_keys)
 
-    parsed_item_content = pyzotero_parser.parse_item_content(retrieved_item)
+    parsed_items_content = pyzotero_parser.parse_items_content(retrieved_items)
 
-    return parsed_item_content
+    return parsed_items_content
 
 if __name__ == "__main__":
+    print(search_zotero_library(limit=100, query="03_tcpdump traffic log"))
     logger.info("Starting ZoteroMCPServer ...")
     mcp.run()
