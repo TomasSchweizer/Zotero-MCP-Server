@@ -10,4 +10,4 @@ Imports in the module/package itself are done via relaive paths.
 ```bash
 uv pip install -e
 ```
-https://user-images.githubusercontent.com/your-user-id/your-video.mp4
+https://user-images.githubusercontent.com/TomasSchweizer/ZoteroMCPServer_example-datalakes.mp4
