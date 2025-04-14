@@ -12,6 +12,6 @@ uv pip install -e
 ```
 
 <div align="center">
-<video src="https://github.com/TomasSchweizer/Zotero-MCP-Server/assets/ZoteroMCPServer_example-datalakes.mp4" controls="controls" muted="muted" playsinline="playsinline">
+<video src="https://github.com/TomasSchweizer/Zotero-MCP-Server/blob/c3500bff057b36daa1e3b6d61fddb4a3e39352bd/assets/ZoteroMCPServer_example-datalakes.mp4" controls="controls" muted="muted" playsinline="playsinline">
 </video>
 </div>
