@@ -24,6 +24,9 @@ jobs:
             - name: Install the project
               run: uv sync --all-extras --dev
             
+            - name: Install zotero_mcp_server as package
+              run: uv pip install .
+            
             - name: Analysing the code with pylint
               run: uv run pylint --fail-under=9.0 --max-line-length=120 $(git ls-files '*.py')
 
