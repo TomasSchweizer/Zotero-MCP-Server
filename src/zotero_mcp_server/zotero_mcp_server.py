@@ -99,6 +99,5 @@ def retrieve_zotero_items_content(item_keys: List[str]) -> List[Dict[str, str]]:
     return parsed_items_content
 
 if __name__ == "__main__":
-    print(search_zotero_library(limit=100, query="03_tcpdump traffic log"))
     logger.info("Starting ZoteroMCPServer ...")
     mcp.run()

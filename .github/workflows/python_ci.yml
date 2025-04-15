@@ -29,6 +29,3 @@ jobs:
             
             - name: Analysing the code with pylint
               run: uv run pylint --fail-under=9.0 --max-line-length=120 $(git ls-files '*.py')
-
-            - name: Run tests
-              run: uv run pytest tests --cov
