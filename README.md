@@ -1,3 +1,7 @@
+# Zotero MCP Server 
+
+
+
 ## Development
 
 Install the project in development mode, so that imports work correctly.
@@ -13,3 +17,9 @@ uv pip install -e
 
 https://github.com/user-attachments/assets/7b422a20-f326-4cf9-bc4f-654a783c0933
 
+
+## Similar Repositories
+
+[zotero-mcp-server by swairshah](https://github.com/swairshah/zotero-mcp-server)
+
+[mcp-pyzotero by gyger](https://github.com/gyger/mcp-pyzotero)

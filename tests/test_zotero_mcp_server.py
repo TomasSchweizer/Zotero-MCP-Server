@@ -7,7 +7,6 @@ import re
 import pytest
 
 from zotero_mcp_server.zotero_mcp_server import search_zotero_library, retrieve_zotero_items_content
-from zotero_mcp_server.pyzotero_wrapper import PyzoteroClient, NotePyzoteroParsingStrategy, ItemPyzoteroParsingStrategy, PyzoteroParser
 
 
 logging.basicConfig(
@@ -20,11 +19,11 @@ test_logger = logging.getLogger(__name__)
 
 @pytest.fixture(scope="function",
                 name="load_patch_data_query_library_fixture",
-                params=["./tests/tests_data/patch_query_libary_response_limit-10000_query-04 Bridge the gap from current state to ideal state.json",
-                        "./tests/tests_data/patch_query_libary_response_limit-10000_query-Intelligence.json",
-                        "./tests/tests_data/patch_query_libary_response_limit-10000_query-OWASP.json",
-                        "./tests/tests_data/patch_query_libary_response_limit-10000_query-Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz.json",
-                        "./tests/tests_data/patch_query_libary_response_limit-10000_query-Snyk.json"
+                params=["./tests/tests_data/patch_query_library_response_limit-10000_query-04 Bridge the gap from current state to ideal state.json",
+                        "./tests/tests_data/patch_query_library_response_limit-10000_query-Intelligence.json",
+                        "./tests/tests_data/patch_query_library_response_limit-10000_query-OWASP.json",
+                        "./tests/tests_data/patch_query_library_response_limit-10000_query-Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz.json",
+                        "./tests/tests_data/patch_query_library_response_limit-10000_query-Snyk.json"
                         ]
 )
 def load_patch_data_query_library(request):
@@ -42,6 +41,7 @@ def load_patch_data_query_library(request):
 @pytest.fixture(scope="function",
                 name="patch_query_library_fixture")
 def patch_query_library(monkeypatch, load_patch_data_query_library_fixture):
+    """Mocks the PyzoteroClient.query_library method."""
     inputs_query_library, patch_found_items, test_parsed_items_metadata = load_patch_data_query_library_fixture
 
     monkeypatch.setattr(
@@ -51,7 +51,7 @@ def patch_query_library(monkeypatch, load_patch_data_query_library_fixture):
     return inputs_query_library, patch_found_items, test_parsed_items_metadata
 
 def test_search_zotero_library(patch_query_library_fixture) -> None:
-    """Test pyzotero search library function"""
+    """Tests the search_zotero_library function."""
     #test_logger.info(patch_query_library_fixture[0])
     inputs_query_library, patch_found_items, expected_parsed_items_metadata = patch_query_library_fixture
     limit = inputs_query_library["limit"]
@@ -71,25 +71,25 @@ def test_search_zotero_library(patch_query_library_fixture) -> None:
                 name="load_test_data_retrieve_zotero_items_content_fixture",
                 params=["./tests/tests_data/test_data_retrieve_zotero_items_content.json"]
                 )
-                    
+
 def load_test_data_retrieve_zotero_items_content(request):
-    """Load patch data to test querying the library"""
+    """Load test data for retrieving item content."""
     tests_data_path = request.param
     test_data = _read_json(tests_data_path)
-    
+
     item_keys = test_data.get("item_keys")
     test_retrieved_items_content =  test_data.get("retrieved_items_content")
 
     return item_keys, test_retrieved_items_content
 
 def test_retrieve_zotero_items_content(load_test_data_retrieve_zotero_items_content_fixture):
+    """Tests the retrieve_zotero_items_content function."""
 
     item_keys, test_retrieved_items_content = load_test_data_retrieve_zotero_items_content_fixture
     retrieved_items_content = retrieve_zotero_items_content(item_keys)
 
-    assert test_retrieved_items_content == retrieved_items_content, f"Parsed content does not match expected content"
-    
-    
+    assert test_retrieved_items_content == retrieved_items_content, "Parsed content does not match expected content"
+
 def _read_json(filename: str) -> dict:
     """Reads data from a JSON file and returns it as a Python dictionary.
 
