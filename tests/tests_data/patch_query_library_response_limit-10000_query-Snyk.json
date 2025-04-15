@@ -1,0 +1,871 @@
+{
+    "found_items": [
+        {
+            "key": "Z7JS35XV",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/Z7JS35XV",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/Z7JS35XV",
+                    "type": "text/html"
+                },
+                "enclosure": {
+                    "href": "file:///home/schweizer/Zotero/storage/Z7JS35XV/Final%20Lab%20Scan%20and%20Fix%20Vulnerabilities.pdf",
+                    "type": "application/pdf",
+                    "title": "Final Lab Scan and Fix Vulnerabilities.pdf",
+                    "length": 85288
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "Z7JS35XV",
+                "version": 0,
+                "itemType": "attachment",
+                "title": "02 Final Lab Scan and Fix Vulnerabilities",
+                "linkMode": "imported_file",
+                "contentType": "application/pdf",
+                "charset": "",
+                "filename": "Final Lab Scan and Fix Vulnerabilities.pdf",
+                "tags": [],
+                "collections": [
+                    "SAXM8XIV"
+                ],
+                "relations": {},
+                "dateAdded": "2025-03-31T15:06:36Z",
+                "dateModified": "2025-03-31T15:06:41Z"
+            }
+        },
+        {
+            "key": "9CBED9P6",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/9CBED9P6",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/9CBED9P6",
+                    "type": "text/html"
+                },
+                "enclosure": {
+                    "href": "file:///home/schweizer/Zotero/storage/9CBED9P6/01%20Practice%20Lab%20Security%20Vulnerability%20Scan%20and%20Fix.pdf",
+                    "type": "application/pdf",
+                    "title": "01 Practice Lab Security Vulnerability Scan and Fix.pdf",
+                    "length": 1820574
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "9CBED9P6",
+                "version": 0,
+                "itemType": "attachment",
+                "title": "01 Practice Lab Security Vulnerability Scan and Fix",
+                "linkMode": "imported_file",
+                "contentType": "application/pdf",
+                "charset": "",
+                "filename": "01 Practice Lab Security Vulnerability Scan and Fix.pdf",
+                "tags": [],
+                "collections": [
+                    "SAXM8XIV"
+                ],
+                "relations": {},
+                "dateAdded": "2025-03-31T15:05:30Z",
+                "dateModified": "2025-03-31T15:05:30Z"
+            }
+        },
+        {
+            "key": "VIS2DSRM",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/VIS2DSRM",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/VIS2DSRM",
+                    "type": "text/html"
+                },
+                "enclosure": {
+                    "href": "file:///home/schweizer/Zotero/storage/VIS2DSRM/04%20CodeQLAnalysis.pdf",
+                    "type": "application/pdf",
+                    "title": "04 CodeQLAnalysis.pdf",
+                    "length": 619514
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "VIS2DSRM",
+                "version": 0,
+                "itemType": "attachment",
+                "title": "04 CodeQLAnalysis",
+                "linkMode": "imported_file",
+                "contentType": "application/pdf",
+                "charset": "",
+                "filename": "04 CodeQLAnalysis.pdf",
+                "tags": [],
+                "collections": [
+                    "IVL4P3R8"
+                ],
+                "relations": {},
+                "dateAdded": "2025-03-31T14:29:35Z",
+                "dateModified": "2025-03-31T14:29:35Z"
+            }
+        },
+        {
+            "key": "RYER99UE",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/RYER99UE",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/RYER99UE",
+                    "type": "text/html"
+                },
+                "enclosure": {
+                    "href": "file:///home/schweizer/Zotero/storage/RYER99UE/07%20Hands-on%20Lab%20Using%20SNYK%20to%20scan%20your%20code%20repository.pdf",
+                    "type": "application/pdf",
+                    "title": "07 Hands-on Lab Using SNYK to scan your code repository.pdf",
+                    "length": 76389
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "RYER99UE",
+                "version": 0,
+                "itemType": "attachment",
+                "title": "07 Hands-on Lab Using SNYK to scan your code repository",
+                "linkMode": "imported_file",
+                "contentType": "application/pdf",
+                "charset": "",
+                "filename": "07 Hands-on Lab Using SNYK to scan your code repository.pdf",
+                "tags": [],
+                "collections": [
+                    "ISYQWLG8"
+                ],
+                "relations": {},
+                "dateAdded": "2025-03-31T10:49:24Z",
+                "dateModified": "2025-03-31T10:49:24Z"
+            }
+        },
+        {
+            "key": "8LV92GQI",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/8LV92GQI",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/8LV92GQI",
+                    "type": "text/html"
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "8LV92GQI",
+                "version": 0,
+                "itemType": "note",
+                "note": "<div data-schema-version=\"9\"><h1>06 Demo: Snyk (SAST) Free Tool</h1>\n<ul>\n<li>\nSnyk is an open-source Static Application Security Testing (SAST) tool and developer security platform.\n</li>\n<li>\nIt helps teams identify, prioritize, and resolve security vulnerabilities in code, dependencies, containers, and infrastructure.\n</li>\n<li>\nSnyk integrates with development tools, workflows, and automation pipelines.\n</li>\n<li>\nTo use Snyk, you need to create an account and connect it to a code repository platform like GitHub.\n</li>\n<li>\nSnyk scans repositories for vulnerabilities in project files (e.g., <code>Gemfile.lock</code> in Ruby projects).\n</li>\n<li>\nScan results show the severity, fixability, exploit maturity, and status of identified vulnerabilities.\n</li>\n<li>\nThe paid version of Snyk allows users to fix vulnerabilities directly.\n</li>\n<li>\nSnyk also provides a list of software dependencies for a project.\n</li>\n</ul>\n<h1>Snyk: Open-Source SAST Tool</h1>\n<h2>What is Snyk?</h2>\n<p>Snyk is an open-source Static Application Security Testing (SAST) tool that functions as a comprehensive developer security platform. Its primary purpose is to empower development teams to proactively identify, prioritize, and resolve security vulnerabilities throughout their software development lifecycle. This includes vulnerabilities present not only in their own code but also in the dependencies they utilize, as well as within containers and infrastructure configurations.</p>\n<h2>Setting up Snyk with GitHub</h2>\n<p>To begin using Snyk for scanning a software project hosted on GitHub, the first step involves creating a free Snyk account by navigating to the Snyk website (snyk.io) and logging in. Once logged in, you can integrate your Snyk account with your GitHub account. This is typically done by selecting the GitHub option during the account setup or connection process and granting Snyk the necessary permissions to access your GitHub repositories. This integration allows Snyk to directly scan your projects hosted on GitHub.</p>\n<h2>Scanning a Project for Vulnerabilities</h2>\n<p>After successfully connecting your Snyk account with GitHub, you can initiate a scan for vulnerabilities within your repositories. If you don't have any repositories already scanned, you can import one for analysis. This involves selecting the option to monitor a public repository (or a private one if permissions allow) and then specifying the repository you wish to analyze. In the example provided, the repository <code>GitHub teacher/GitHub-slideshow</code> is imported. The import process might take some time as Snyk analyzes the project. Once the import is complete, you can access the scan results.</p>\n<h2>Interpreting Scan Results</h2>\n<p>Upon completion of the scan, Snyk presents a summary of any discovered vulnerabilities. In the example, 27 vulnerability issues were found within the <code>gemfile.lock</code> file of a Ruby project. This file is analogous to <code>requirements.txt</code> in Python projects and lists all the project's dependent packages. The presence of vulnerabilities in these dependencies means the application itself could be vulnerable. Clicking on the specific file (e.g., <code>Gemfile.lock</code>) provides an overview of the identified issues. For each vulnerability, Snyk typically displays information such as its severity score, fixability (whether an automatic fix is available), exploit maturity (how readily exploitable the vulnerability is), and its current status. The \"Retest Now\" option allows users to re-scan for the same vulnerabilities. The paid version of Snyk often provides the functionality to directly fix these vulnerabilities. Additionally, Snyk provides a \"Dependencies\" section where users can view a comprehensive list of all software dependencies for the project.</p>\n<h2>Key Features of Snyk</h2>\n<p>In summary, Snyk offers several key features:</p>\n<ul>\n<li>\n<strong>Vulnerability Identification:</strong> It scans code and dependencies to identify known security vulnerabilities.\n</li>\n<li>\n<strong>Prioritization:</strong> It provides information about the severity and exploitability of vulnerabilities to help teams prioritize remediation efforts.\n</li>\n<li>\n<strong>Resolution Assistance:</strong> The paid version offers tools and features to help developers fix identified vulnerabilities.\n</li>\n<li>\n<strong>Integration:</strong> It seamlessly integrates with popular development tools, workflows, and platforms like GitHub.\n</li>\n<li>\n<strong>Dependency Management:</strong> It provides insights into the project's dependencies, allowing for better security management of third-party components.\n</li>\n</ul>\n</div>",
+                "tags": [],
+                "collections": [
+                    "ISYQWLG8"
+                ],
+                "relations": {},
+                "dateAdded": "2025-03-29T11:25:56Z",
+                "dateModified": "2025-03-31T10:41:47Z"
+            }
+        },
+        {
+            "key": "QDHFRD2C",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/QDHFRD2C",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/QDHFRD2C",
+                    "type": "text/html"
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "QDHFRD2C",
+                "version": 0,
+                "itemType": "note",
+                "note": "<div data-schema-version=\"9\"><h1>05 Discover Code Vulnerabilities with Snyk (SAST) Free Tool</h1>\n<ul>\n<li>\nSnyk is a developer-centric security platform.\n</li>\n<li>\nIt helps detect and fix vulnerabilities in open-source code and containers.\n</li>\n<li>\nKey features include dependency scanning, container scanning, continuous monitoring, vulnerability remediation guidance, and integration with development tools.\n</li>\n<li>\nSnyk plays a crucial role in enhancing software security and reducing security risks.\n</li>\n<li>\nIt is designed for various users involved in software development, including developers, DevOps teams, and security experts.\n</li>\n<li>\nSnyk's purpose is to identify and resolve vulnerabilities early in the development lifecycle.\n</li>\n<li>\nFounded in 2015, Snyk has evolved to cover various aspects of software security.\n</li>\n<li>\nSeveral alternative products with similar functionalities are available in the market.\n</li>\n</ul>\n<h2>Introduction to Snyk</h2>\n<p>Snyk is a security platform designed with a developer-centric approach. Its primary function is to assist organizations in identifying and resolving vulnerabilities within their open-source code and containers. By seamlessly integrating security into the development process, Snyk empowers developers to proactively address security concerns early on, ensuring a more secure software development lifecycle. The platform provides developers with the necessary tools and strategies to effectively manage open-source dependencies, detect potential vulnerabilities, and establish a secure foundation for their applications.</p>\n<h2>Key Features of Snyk</h2>\n<p>Snyk offers a range of features designed to enhance software security:</p>\n<ul>\n<li>\n<strong>Dependability Scrutiny:</strong> Snyk thoroughly scans codebases to identify vulnerabilities in open-source dependencies, providing insights and actionable steps for remediation.\n</li>\n<li>\n<strong>Container Vigilance:</strong> Snyk extends its scanning capabilities to container images, ensuring they are free from known security hazards.\n</li>\n<li>\n<strong>Persistent Surveillance:</strong> The platform continuously monitors dependencies and containers, promptly alerting users to any newly discovered vulnerabilities.\n</li>\n<li>\n<strong>Resolution and Correction:</strong> Snyk guides users in addressing vulnerabilities by suggesting patches, updates, or alternative package versions that are not vulnerable.\n</li>\n<li>\n<strong>Harmonized Tool Integration:</strong> Snyk integrates seamlessly with various development tools, including code repositories, CI/CD pipelines, and issue tracking systems.\n</li>\n<li>\n<strong>Security Frameworks:</strong> Organizations can configure security policies to define acceptable risk levels and automate security enforcement.\n</li>\n<li>\n<strong>Developer-Centric Approach:</strong> Snyk is designed to be user-friendly for developers, providing clear and actionable insights to understand and fix vulnerabilities.\n</li>\n<li>\n<strong>Broad Compatibility:</strong> Snyk supports a wide range of programming languages and package managers commonly used in software development.\n</li>\n</ul>\n<h2>Importance of Snyk</h2>\n<p>Snyk plays a vital role in improving the security of an organization's software products. By proactively identifying and addressing vulnerabilities, it significantly reduces the risk of security and data breaches. This aligns with the growing trend of integrating security practices into DevOps and continuous delivery pipelines, leading to a more secure software development process.</p>\n<h2>Intended Users of Snyk</h2>\n<p>Snyk is designed for a diverse group of individuals involved in the software development process:</p>\n<ul>\n<li>\n<strong>Developers:</strong> To find and fix security issues during code creation.\n</li>\n<li>\n<strong>DevOps Teams:</strong> To ensure application security during deployment and operation.\n</li>\n<li>\n<strong>Security Experts:</strong> To collaborate with developers in identifying and resolving vulnerabilities.\n</li>\n<li>\n<strong>Product Managers:</strong> To ensure the security and safety of the application for users.\n</li>\n<li>\n<strong>Open-Source Contributors:</strong> To maintain the reliability and security of shared code.\n</li>\n<li>\n<strong>App Managers:</strong> To oversee application performance and security.\n</li>\n<li>\n<strong>Top Security People:</strong> To ensure overall application security and compliance.\n</li>\n<li>\n<strong>Compliance Teams:</strong> To verify adherence to security standards and regulations.\n</li>\n<li>\n<strong>Cloud Native Teams:</strong> To secure modern application components like containers.\n</li>\n</ul>\n<h2>Purpose of Snyk</h2>\n<p>The primary purpose of Snyk is to empower software creators to identify and remediate security vulnerabilities in their software. This includes:</p>\n<ul>\n<li>\n<strong>Vulnerability Detection:</strong> Identifying potential security weaknesses in code and dependencies.\n</li>\n<li>\n<strong>Early Fixes:</strong> Enabling the resolution of vulnerabilities early in the development cycle.\n</li>\n<li>\n<strong>Helping Everyone:</strong> Providing accessible security insights for non-security experts.\n</li>\n<li>\n<strong>Watching Open Source:</strong> Ensuring the security and reliability of open-source components.\n</li>\n<li>\n<strong>Guiding Solutions:</strong> Offering recommendations for fixing vulnerabilities.\n</li>\n<li>\n<strong>Fitting In Everywhere:</strong> Integrating with existing development tools and workflows.\n</li>\n<li>\n<strong>Following Rules:</strong> Helping teams comply with security policies and standards.\n</li>\n<li>\n<strong>Always Alert:</strong> Continuously monitoring for new vulnerabilities.\n</li>\n<li>\n<strong>Covering Special Parts:</strong> Supporting modern software architectures like containers.\n</li>\n</ul>\n<h2>History of Snyk</h2>\n<p>Founded in 2015 by Guy Podjarny, Danny Grander, and Assaf Hefetz, Snyk was created to address the growing need for better security in open-source software.</p>\n<ul>\n<li>\n<strong>2015:</strong> Snyk was founded with the goal of identifying and fixing vulnerabilities in open-source libraries.\n</li>\n<li>\n<strong>2016:</strong> The company gained recognition for its focus on integrating security into the developer workflow.\n</li>\n<li>\n<strong>2017:</strong> Snyk launched its initial product, allowing developers to scan code and dependencies for vulnerabilities.\n</li>\n<li>\n<strong>2018:</strong> Snyk expanded its offerings to include container security, addressing the rise of containerized applications.\n</li>\n<li>\n<strong>2019:</strong> The company secured significant funding, fueling its growth and product development.\n</li>\n<li>\n<strong>2020:</strong> Snyk continued to enhance its features and integrations with popular development tools like GitHub, GitLab, and CI/CD systems.\n</li>\n<li>\n<strong>2021:</strong> New features were released with a focus on providing more actionable insights for developers.\n</li>\n<li>\n<strong>2022:</strong> Snyk's influence in the software security landscape continued to grow, with its products gaining recognition for their effectiveness.\n</li>\n</ul>\n<p>Throughout its history, Snyk has evolved into a key platform for enhancing software security by focusing on developer empowerment and seamless integration into the development lifecycle.</p>\n<h2>Similar Products Available in the Market</h2>\n<p>Several other products offer similar functionalities to Snyk in the realm of software security and vulnerability management:</p>\n<ul>\n<li>\nWhiteSource\n</li>\n<li>\nSonarQube\n</li>\n<li>\nNexus Lifecycle (Sonatype)\n</li>\n<li>\nVeracode\n</li>\n<li>\nCheckmarx\n</li>\n<li>\nBlack Duck (Synopsys)\n</li>\n<li>\nGitLab Security\n</li>\n<li>\nGitHub Security\n</li>\n<li>\nAqua Security Trivy\n</li>\n<li>\nJFrog Xray\n</li>\n</ul>\n<p>Each of these products provides unique features and strengths, and organizations should evaluate their specific needs to choose the most suitable solution for their development processes and security goals.</p>\n</div>",
+                "tags": [],
+                "collections": [
+                    "ISYQWLG8"
+                ],
+                "relations": {},
+                "dateAdded": "2025-03-29T11:25:32Z",
+                "dateModified": "2025-03-31T10:33:35Z"
+            }
+        },
+        {
+            "key": "96BC9E2D",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/96BC9E2D",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/96BC9E2D",
+                    "type": "text/html"
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "96BC9E2D",
+                "version": 0,
+                "itemType": "note",
+                "note": "<div data-schema-version=\"9\"><h1>00 Summary and Glossary</h1>\n<ul>\n<li>\n<span style=\"color: rgb(31, 31, 31)\"><span style=\"background-color: rgb(255, 255, 255)\">Secure code review focuses on threats that are exposed or source code that contains security-critical components.\u202f</span></span>\n</li>\n<li>\n<span style=\"color: rgb(31, 31, 31)\"><span style=\"background-color: rgb(255, 255, 255)\">Automated code reviews evaluate large codebases quickly and efficiently.\u202f</span></span>\n</li>\n<li>\n<span style=\"color: rgb(31, 31, 31)\"><span style=\"background-color: rgb(255, 255, 255)\">Three vulnerability tools you can use are Burp Suite, Nessus, and ZAP.</span></span>\n</li>\n<li>\n<span style=\"color: rgb(31, 31, 31)\"><span style=\"background-color: rgb(255, 255, 255)\">Training, policy updating, and process automation are best practices to follow in vulnerability analysis.</span></span>\n</li>\n<li>\n<span style=\"color: rgb(31, 31, 31)\"><span style=\"background-color: rgb(255, 255, 255)\">Runtime protection is a security mechanism that protects your applications against vulnerabilities while they are running.</span></span>\n</li>\n<li>\n<span style=\"color: rgb(31, 31, 31)\"><span style=\"background-color: rgb(255, 255, 255)\">The goal of software component analysis (SCA) is to discover open-source components in a codebase so that you can better manage security and license compliance risks.</span></span>\n</li>\n<li>\n<span style=\"color: rgb(31, 31, 31)\"><span style=\"background-color: rgb(255, 255, 255)\">Continuous security analysis reduces risks, removes bottlenecks in software development, and accelerates new feature development.</span></span>\n</li>\n</ul>\n<h1>Application Security for Developers and DevOps Professionals</h1>\n<table>\n<tbody>\n<tr>\n<th>\n<p>Term</p>\n</th>\n<th>\n<p>Definition</p>\n</th>\n</tr>\n<tr>\n<td>\n<p>Ad hoc testing</p>\n</td>\n<td>\n<p>Random, informal testing without a plan for the discovery of a vulnerability.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>BDD-Security</p>\n</td>\n<td>\n<p>A security testing framework that uses behavior-driven development.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Burp Suite</p>\n</td>\n<td>\n<p>A vulnerability scanner that is popular for scanning web applications. You can set up automated scans of a website or perform manual scanning by crawling the overall structure of a website or web application.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Code review</p>\n</td>\n<td>\n<p>In code review, you use automated static analysis security testing and perform manual code inspection.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>DAST</p>\n</td>\n<td>\n<p>Dynamic application security testing (or DAST) evaluates the application from the outside in through the front end.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Dynamic analysis</p>\n</td>\n<td>\n<p>Dynamic analysis is the process of testing and evaluating an application as it is executing.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Exploratory testing</p>\n</td>\n<td>\n<p>Takes place outside of formal testing.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>GitHub SCA</p>\n</td>\n<td>\n<p>It is for viewing dependency packages and vulnerabilities while using GitHub.com.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>GPL</p>\n</td>\n<td>\n<p>General Public License.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Guantlt</p>\n</td>\n<td>\n<p>A security framework that hooks into security tools for simplified integration.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Integration tests</p>\n</td>\n<td>\n<p>For testing the integration of several coded classes within an application. You can perform integration tests across application tiers and a wide testing scope.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>IAST</p>\n</td>\n<td>\n<p>Interactive Application Self-testing (or IAST) scans for vulnerabilities during testing.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>JSON</p>\n</td>\n<td>\n<p>JavaScript Object Notation.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Mittn</p>\n</td>\n<td>\n<p>Popular tool suite to include in continuous integration.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Nessus</p>\n</td>\n<td>\n<p>It is a vulnerability scanner that scans operating systems, network devices, and critical infrastructure for vulnerabilities, threats, and compliance violations.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>OWASP</p>\n</td>\n<td>\n<p>Open Web Application Security Project.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>OWASP Dependency-Check</p>\n</td>\n<td>\n<p>It is an SCA for checking for vulnerabilities within project dependencies.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>OWASP Dependency-Track</p>\n</td>\n<td>\n<p>It is an SCA for identifying any risks within the software supply chain.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>OWASP Software Component Verification Standard</p>\n</td>\n<td>\n<p>It is a community-supported effort to build a sustainable framework for reducing risk within a software supply chain.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>RASP</p>\n</td>\n<td>\n<p>Runtime Application Self-Protection (or RASP) looks for assaults in the production environment.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Runtime protection</p>\n</td>\n<td>\n<p>Runtime protection is a modern security mechanism that shields applications against threats while the applications are running.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>SALSA</p>\n</td>\n<td>\n<p>Supply-chain Levels for Software Artifacts (or SALSA) provides a security framework for improving integrity and preventing tampering by implementing standards and controls.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>SAST</p>\n</td>\n<td>\n<p>Static application security testing (or SAST) examines source code to identify security flaws that render your organization's applications vulnerable to attack.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>SCA</p>\n</td>\n<td>\n<p>Software component analysis (or SCA) is the process of determining which open-source components and dependencies are used in your application.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>SCM</p>\n</td>\n<td>\n<p>Source control management.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Security testing</p>\n</td>\n<td>\n<p>Security testing provides a secure code baseline for development. It should be performed on all new codes to reduce the risk of impacts.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Snyk</p>\n</td>\n<td>\n<p>A developer security platform for securing code, dependencies, containers, and infrastructure as code.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Static analysis</p>\n</td>\n<td>\n<p>Static analysis examines all code or runtime binaries to help detect common vulnerabilities without executing code or running programs.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>SWID Tags</p>\n</td>\n<td>\n<p>Software Identification Tags (or SWID Tags) are standard to track software installed on managed devices.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Unit testing</p>\n</td>\n<td>\n<p>For testing classes and methods to evaluate application programming interface (or API) contracts. You can perform unit testing on individual classes with limited scope.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Vulnerability analysis</p>\n</td>\n<td>\n<p>It is a method of identifying possible application flaws that could jeopardize your application.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>XML</p>\n</td>\n<td>\n<p>Extensible Markup Language.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>ZAP</p>\n</td>\n<td>\n<p>Zed Attack Proxy (or Zap) is a vulnerability scanner. It is an OWASP tool and open-source software that uses spiders to crawl web applications.</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>",
+                "tags": [],
+                "collections": [
+                    "7MX6TR9K"
+                ],
+                "relations": {},
+                "dateAdded": "2025-03-29T11:24:23Z",
+                "dateModified": "2025-03-31T08:25:21Z"
+            }
+        },
+        {
+            "key": "MZZD9T6J",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/MZZD9T6J",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/MZZD9T6J",
+                    "type": "text/html"
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "MZZD9T6J",
+                "version": 0,
+                "itemType": "note",
+                "note": "<div data-schema-version=\"9\"><h1>09 Continuous Security Analysis </h1>\n<ul>\n<li>\nContinuous Security Analysis involves integrating and testing security throughout the entire Software Development Lifecycle (SDLC), from requirements to production.\n</li>\n<li>\nIts primary goals are to minimize security risks, eliminate development bottlenecks, and facilitate rapid software releases by embedding security early and continuously.\n</li>\n<li>\nKey benefits include seamless integration with CI/CD pipelines, early detection and resolution of security flaws, faster development cycles, automation of security requirements, and fostering a culture of security ownership among developers.\n</li>\n<li>\nTools like Snyk Open Source aid in Continuous Security Analysis by identifying and fixing vulnerabilities and license issues in open-source components.\n</li>\n<li>\nBest practices emphasize planning security audits, maintaining secure development environments, analyzing the <span style=\"background-color: #5fb23680\">full development stack</span>, and complementing the process with Static Application Security Testing (SAST) and Software Composition Analysis (SCA).\n</li>\n</ul>\n<hr>\n<h2>What is Continuous Security Analysis?</h2>\n<p>Continuous Security Analysis is the practice of embedding security integration and testing activities throughout the entire software development lifecycle (SDLC). This approach ensures security is considered and verified continuously, starting from the initial Requirements phase, through Design, Development, Testing, Deployment, and even into the Production environment. It shifts security from being an afterthought to an ongoing priority.</p>\n<p><img alt=\"\" data-attachment-key=\"XU8KDFKB\" width=\"1210\" height=\"493\"></p>\n<p><img alt=\"\" data-attachment-key=\"IW5XSCQ9\" width=\"1216\" height=\"524\"></p>\n<h2>Goals of Continuous Security Analysis</h2>\n<p>The main objectives of implementing continuous security analysis are:</p>\n<ul>\n<li>\n<strong>Reduce Security Risks:</strong> Proactively identify and mitigate vulnerabilities throughout development.\n</li>\n<li>\n<strong>Remove Bottlenecks:</strong> Prevent security issues from causing delays later in the development cycle.\n</li>\n<li>\n<strong>Enable Fast Releases:</strong> Support rapid software delivery by addressing security concerns early and often.\n</li>\n<li>\n<strong>Establish a Secure SDLC:</strong> Make security an integral and critical factor across the organization's development processes.\n</li>\n</ul>\n<h2>Benefits of Continuous Security Analysis</h2>\n<p>Integrating continuous security analysis into the SDLC offers several advantages:</p>\n<ul>\n<li>\n<strong>CI/CD Integration:</strong> It can be directly incorporated into Continuous Integration/Continuous Delivery pipelines for automated security checks.\n</li>\n<li>\n<strong>Early Issue Detection:</strong> Security problems are identified and can be fixed early in development, reducing remediation costs and effort.\n</li>\n<li>\n<strong>Accelerated Development:</strong> By minimizing security-related disruptions, it helps speed up the development of new features.\n</li>\n<li>\n<strong>Automated Security Requirements:</strong> Facilitates the automation of security checks for both new and existing applications.\n</li>\n<li>\n<strong>Improved Ownership:</strong> Encourages developers to take responsibility for the security of their code.\n</li>\n<li>\n<strong>Secure Coding Default:</strong> Promotes secure coding practices as the standard way of development.\n</li>\n</ul>\n<h2>Tools for Continuous Security Analysis</h2>\n<p>Various tools can support continuous security analysis. One example is:</p>\n<ul>\n<li>\n<p><strong>Snyk Open Source:</strong> This tool specifically helps by:</p>\n<ul>\n<li>\nFinding and fixing vulnerabilities within open-source libraries.\n</li>\n<li>\nIdentifying potential licensing compliance issues related to open-source usage.\n</li>\n<li>\nProviding actionable advice to developers for fixing vulnerabilities during coding.\n</li>\n<li>\nAutomating fixes through pull requests in Source Control Management (SCM) systems like GitHub.\n</li>\n<li>\nPrioritizing security issues and reporting on newly discovered threats.\n</li>\n</ul>\n</li>\n</ul>\n<h2>Best Practices for Continuous Security Analysis</h2>\n<p>To effectively implement continuous security analysis, consider these best practices:</p>\n<ol>\n<li>\n<strong>Plan Audits:</strong> Require systematic planning to audit security issues and risks at all development stages.\n</li>\n<li>\n<strong>Secure Environment:</strong> Ensure development occurs on up-to-date operating systems and software within a secure environment.\n</li>\n<li>\n<strong>Full Stack Analysis:</strong> Analyze all components involved in code development (libraries, frameworks, custom code) to integrate security comprehensively.\n</li>\n<li>\n<strong>Combine Testing Methods:</strong> Implement Static Application Security Testing (SAST) and Software Composition Analysis (SCA) alongside continuous security analysis to ensure thorough testing against multiple criteria.\n</li>\n</ol>\n</div>",
+                "tags": [],
+                "collections": [
+                    "7MX6TR9K"
+                ],
+                "relations": {},
+                "dateAdded": "2025-03-29T11:24:12Z",
+                "dateModified": "2025-03-31T08:15:50Z"
+            }
+        },
+        {
+            "key": "L6EPPHT5",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/L6EPPHT5",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/L6EPPHT5",
+                    "type": "text/html"
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "L6EPPHT5",
+                "version": 0,
+                "itemType": "note",
+                "note": "<div data-schema-version=\"9\"><h1>06 Software Component Analysis</h1>\n<ul>\n<li>\n<strong>Software Component Analysis (SCA):</strong> The process of identifying open-source components and dependencies within an application.\n</li>\n<li>\n<strong>Importance:</strong> Essential for tracking components, managing security risks, and ensuring legal compliance, especially with the increasing use of open-source software.\n</li>\n<li>\n<strong>Key Features:</strong> Identifies <em>all</em> dependencies (direct and indirect/transitive), checks for security vulnerabilities, and verifies license compliance (e.g., avoiding GPL licenses in proprietary code).\n</li>\n<li>\n<strong>Goals:</strong> Discover and track all open-source components, ensure license compliance, identify vulnerabilities, and run appropriate scans.\n</li>\n<li>\n<strong>Identification Efforts:</strong> Industry standards like NIST CPE Dictionary, SWID Tags, and Package URL specifications help identify software components.\n</li>\n<li>\n<strong>Verification Standards:</strong> Frameworks like OWASP Software Component Verification Standard (SCVS) and Supply-chain Levels for Software Artifacts (SLSA - pronounced \"salsa\") help verify components and reduce supply chain risks.\n</li>\n<li>\n<strong>SCA Tools:</strong> Examples include GitHub SCA, OWASP Dependency-Check, OWASP Dependency-Track, and Snyk.\n</li>\n</ul>\n<hr>\n<h2>What is SCA?</h2>\n<p>Software Component Analysis (SCA) is the process used to identify and list all the open-source software components and their associated dependencies that are incorporated into an application. As the use of open-source software grows, tracking these components becomes crucial for security and compliance. SCA tools can be integrated throughout the software development lifecycle to detect potential security vulnerabilities or legal issues related to licenses introduced by imported libraries or dependencies. Implementing SCA is a significant step towards enhancing the security and integrity of software.</p>\n<h2>Key Features of SCA</h2>\n<ul>\n<li>\n<strong>Dependency Discovery:</strong> SCA identifies <em>all</em> dependencies linked to the code, including transitive dependencies (dependencies of dependencies) which developers might not be directly aware of. For instance, importing a library like Flask might bring in its own set of dependencies, and even if the version of Flask used is secure, one of its dependencies could have a vulnerability.\n</li>\n<li>\n<strong>Security Vulnerability Detection:</strong> It scans components for known security flaws.\n</li>\n<li>\n<strong>License Compliance:</strong> SCA verifies the licenses associated with open-source components. This is critical for businesses, especially regarding licenses like the GNU General Public License (GPL). Using a GPL-licensed library might legally require the company to release its own source code, which is often undesirable for proprietary software.\n</li>\n<li>\n<strong>Visibility and Control:</strong> SCA provides developers with insight into the open-source components they are using, allowing them to manage potential security risks effectively.\n</li>\n</ul>\n<h2>Goals of SCA</h2>\n<p>The primary objectives of performing Software Component Analysis are:</p>\n<ol>\n<li>\n<strong>Discovery and Tracking:</strong> Ensure all open-source components within the codebase are identified and continuously monitored.\n</li>\n<li>\n<strong>License Compliance:</strong> Track open-source licenses to mitigate legal risks and ensure compliance with organizational policies.\n</li>\n<li>\n<strong>Vulnerability Identification:</strong> Detect known security vulnerabilities present in the open-source components.\n</li>\n<li>\n<strong>Flexible Scanning:</strong> Perform various types of scans tailored to specific situations and requirements.\n</li>\n</ol>\n<h2>Identifying Software Components</h2>\n<p>Several industry initiatives standardize the identification of software components:</p>\n<ul>\n<li>\n<strong>NIST CPE Dictionary:</strong> A centralized database from the National Institute of Standards and Technology for Common Platform Enumeration (CPE) of software and hardware products.\n</li>\n<li>\n<strong>Software Identification (SWID) Tags:</strong> A standard format for describing software products, primarily commercial ones.\n</li>\n<li>\n<strong>Package URL (purl) Specification:</strong> A standardized string format to uniquely identify software packages across different ecosystems (e.g., <code>pkg:type/namespace/name@version?qualifiers#subpath</code>).\n</li>\n</ul>\n<p><img alt=\"\" data-attachment-key=\"MMBC7XPA\" width=\"1217\" height=\"151\"></p>\n<h2>Verifying Software Components</h2>\n<p>Following industry standards is essential for verifying the integrity and security of software components:</p>\n<ul>\n<li>\n<strong>OWASP Software Component Verification Standard (SCVS):</strong> A community-driven framework aimed at establishing best practices for reducing risk within the software supply chain.\n</li>\n<li>\n<strong>Supply-chain Levels for Software Artifacts (SLSA - \"salsa\"):</strong> A security framework providing standards and controls to enhance software artifact integrity and prevent tampering throughout the supply chain.\n</li>\n</ul>\n<h2>Popular SCA Tools</h2>\n<p>Several tools are available to perform SCA:</p>\n<ul>\n<li>\n<strong>GitHub SCA:</strong> Integrated features within GitHub.com for viewing dependency packages and their vulnerabilities.\n</li>\n<li>\n<strong>OWASP Dependency-Check:</strong> An OWASP tool specifically designed to scan project dependencies for known vulnerabilities.\n</li>\n<li>\n<strong>OWASP Dependency-Track:</strong> An OWASP platform that helps identify and manage risks within the software supply chain over time.\n</li>\n<li>\n<strong>Snyk:</strong> A commercial tool that analyzes codebases for security vulnerabilities, code quality issues, and license compliance.\n</li>\n</ul>\n</div>",
+                "tags": [],
+                "collections": [
+                    "7MX6TR9K"
+                ],
+                "relations": {},
+                "dateAdded": "2025-03-29T11:23:38Z",
+                "dateModified": "2025-03-31T07:41:36Z"
+            }
+        },
+        {
+            "key": "X2TXBWV8",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/X2TXBWV8",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/X2TXBWV8",
+                    "type": "text/html"
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "X2TXBWV8",
+                "version": 0,
+                "itemType": "note",
+                "note": "<div data-schema-version=\"9\"><h1>02 Vulnerability Analysis</h1>\n<ul>\n<li>\nVulnerability analysis identifies application flaws.\n</li>\n<li>\nCode vulnerabilities can emerge daily, even in previously secure code.\n</li>\n<li>\nTools like Snyk, Burp Suite, Nessus, and Zed Attack Proxy (Zap) aid in vulnerability scanning.\n</li>\n<li>\nBest practices include developer security training, policy updates, and automated scanning.\n</li>\n</ul>\n<h2>Vulnerability Analysis</h2>\n<p><strong>What is Vulnerability Analysis?</strong></p>\n<p>Vulnerability analysis is a process that identifies potential flaws in applications that could compromise their security. These flaws, or vulnerabilities, can arise even in code that was previously considered secure, due to newly discovered exploits or vulnerabilities in dependencies.</p>\n<h2>The Dynamic Nature of Vulnerabilities</h2>\n<p>Code that is secure one day can become vulnerable the next.</p>\n<ul>\n<li>\n<span style=\"background-color: #ff666680\">New vulnerabilities are discovered daily, affecting libraries and plugins.</span>\n</li>\n<li>\nAttackers can exploit even minor flaws to gain unauthorized access.\n</li>\n</ul>\n<h2>Tools for Vulnerability Scanning</h2>\n<p>Several tools can assist in identifying vulnerabilities:</p>\n<ul>\n<li>\n<strong>Snyk:</strong> A developer security platform for securing code, dependencies, containers, and infrastructure as code. It\u2019s a SaaS.\n</li>\n<li>\n<strong>Burp Suite:</strong> A web application vulnerability scanner with passive, active, and JavaScript analysis capabilities.\n</li>\n<li>\n<strong>Nessus:</strong> A vulnerability scanner compatible with Mac, Linux, and Windows, allowing for custom scripting (own scripting language), also plugins.\n</li>\n<li>\n<strong>Zed Attack Proxy (Zap):</strong> An open-source OWASP tool that uses spiders to crawl and scan web applications. Has active and passive scanning of HTML and AJAX.\n</li>\n</ul>\n<h2>Best Practices for Vulnerability Prevention</h2>\n<p>To minimize vulnerabilities, consider these best practices:</p>\n<ul>\n<li>\n<strong><span style=\"background-color: #5fb23680\">Developer Security Training:</span></strong><span style=\"background-color: #5fb23680\"> Educate development teams on secure coding practices.</span>\n</li>\n<li>\n<strong>Policy Analysis and Updating:</strong> Regularly review and update security policies to reflect current threats.\n</li>\n<li>\n<strong>Process Automation:</strong> Automate vulnerability scanning to ensure consistent and timely detection.\n</li>\n</ul>\n</div>",
+                "tags": [],
+                "collections": [
+                    "7MX6TR9K"
+                ],
+                "relations": {},
+                "dateAdded": "2025-03-29T11:23:01Z",
+                "dateModified": "2025-03-29T17:15:58Z"
+            }
+        },
+        {
+            "key": "FJPHKFZJ",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/FJPHKFZJ",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/FJPHKFZJ",
+                    "type": "text/html"
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "FJPHKFZJ",
+                "version": 0,
+                "itemType": "note",
+                "note": "<div data-schema-version=\"9\"><h1>00 Summary and Glossary</h1>\n<ul>\n<li>\n<span style=\"color: rgb(31, 31, 31)\"><span style=\"background-color: rgb(255, 255, 255)\">Threat monitoring is scanning code repositories and containers to find security issues.&nbsp;</span></span>\n</li>\n<li>\n<span style=\"color: rgb(31, 31, 31)\"><span style=\"background-color: rgb(255, 255, 255)\">Integrating threat monitoring with repositories enables a code checker to scan source code for security issues.&nbsp;</span></span>\n</li>\n<li>\n<span style=\"color: rgb(31, 31, 31)\"><span style=\"background-color: rgb(255, 255, 255)\">Authentication verifies a user\u2019s identity, and authorization determines a user\u2019s access rights.&nbsp;</span></span>\n</li>\n<li>\n<span style=\"color: rgb(31, 31, 31)\"><span style=\"background-color: rgb(255, 255, 255)\">Symmetric encryption means encrypting and decrypting with the same keys, whereas asymmetric encryption means encrypting and decrypting with different keys.&nbsp;</span></span>\n</li>\n</ul>\n<table>\n<tbody>\n<tr>\n<th>\n<p><code>Term</code></p>\n</th>\n<th>\n<p><code>Definition</code></p>\n</th>\n</tr>\n<tr>\n<td>\n<p><code>Access control</code></p>\n</td>\n<td>\n<p><code>Security measures employed to govern and control the access and permissions provided to users, processes, or entities operating within a system or network.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Alerting</code></p>\n</td>\n<td>\n<p><code>Responsive component of a monitoring system that performs actions based on changes in metric values.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Application layer</code></p>\n</td>\n<td>\n<p><code>The seventh and topmost layer of the OSI model is used by developers for building and deploying applications.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Application Programming Interface (API)</code></p>\n</td>\n<td>\n<p><code>A collection of guidelines, protocols, and tools that allow diverse software applications to communicate with each other.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Asymmetric encryption</code></p>\n</td>\n<td>\n<p><code>When different keys are used to encrypt and decrypt.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Authentication</code></p>\n</td>\n<td>\n<p><code>Process of verifying a user's identity.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Authorization</code></p>\n</td>\n<td>\n<p><code>Process of determining a user's access rights.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Checksums</code></p>\n</td>\n<td>\n<p><code>Derived values from data employed to identify errors that may have occurred during the transmission or storage of that data.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>CI/CD</code></p>\n</td>\n<td>\n<p><code>CI/CD, which stands for continuous integration (CI) and continuous delivery (CD), creates a faster and more precise way of combining the work of different people into one cohesive product.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>CI/CD pipeline</code></p>\n</td>\n<td>\n<p><code>The continuous integration/continuous delivery (CI/CD) pipeline is an agile DevOps workflow focused on a frequent and reliable software delivery process.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Code scanners</code></p>\n</td>\n<td>\n<p><code>Provide vulnerability reporting and insights after they scan code in your repositories.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>CodeSonar</code></p>\n</td>\n<td>\n<p><code>A static code analysis tool from GrammaTech used to find and fix bugs and security vulnerabilities in source and binary code.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Container scanning</code></p>\n</td>\n<td>\n<p><code>Scans code deployed to containers, which may contain vulnerabilities and security threats.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Containers</code></p>\n</td>\n<td>\n<p><code>Executable software units in which application code is packaged along with its libraries and dependencies in common ways to run the code anywhere, whether it be on a desktop, traditional IT, or the cloud.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Coverity</code></p>\n</td>\n<td>\n<p><code>An incremental analysis scanner for programming languages such as C, C++, Java, and Python.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Cryptographic keys</code></p>\n</td>\n<td>\n<p><code>Essential tools used to secure data from cyberattacks during transmission and storage.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Cryptographic service</code></p>\n</td>\n<td>\n<p><code>A confidentiality service that keeps data secret. Its purpose is to secure data from others, even when the data traverses a non-secure network without the necessary credentials.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Data link layer</code></p>\n</td>\n<td>\n<p><code>The second layer of the OSI model transforms the transmitted raw data into a line free from undetected errors.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>DevSecOps</code></p>\n</td>\n<td>\n<p><code>DevSecOps (DevOps with an emphasis on security) is a set of practices that automate security integration across the software development lifecycle (or SDLC), from original design to integration, testing, deployment, and software delivery.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Dialog control</code></p>\n</td>\n<td>\n<p><code>Refers to the management and coordination of communication sessions between two devices or systems.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>E-commerce transactions</code></p>\n</td>\n<td>\n<p><code>Refer to the buying and selling of goods and services over the internet.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Encryption</code></p>\n</td>\n<td>\n<p><code>Process of encoding information so that only those users with authorized access can decode it.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Endpoint security</code></p>\n</td>\n<td>\n<p><code>Detects application and system anomalies and protects systems, servers, and various types of devices connected to a network.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Exhaustive documentation</code></p>\n</td>\n<td>\n<p><code>Security pattern documentation that is accessible, precise, easy to read, and follow through. Software developers are inclined to refer to such documentation.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>eXtensible Access Control Markup Language (XACML)</code></p>\n</td>\n<td>\n<p><code>A standard used to define and implement access control policies. It offers a comprehensive framework for managing and enforcing access control decisions across different systems, applications, and services. This empowers organizations to regulate resource access and specific actions based on established policies.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>eXtensible Markup Language (XML)</code></p>\n</td>\n<td>\n<p><code>A widely utilized markup language created to organize, transport, and structure data in a format that is human-readable and platform-independent.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Firewall</code></p>\n</td>\n<td>\n<p><code>A network security device or software that acts as a barrier between a trusted internal network and an untrusted external network like the internet.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Functional Verification Test (FVT)</code></p>\n</td>\n<td>\n<p><code>Validates the software's functionality using the solution specification document, design papers, and use case documents.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>GitHub</code></p>\n</td>\n<td>\n<p><code>An online platform that offers version control for software development projects, enabling developers to collaborate on code, monitor changes, and manage their source code repositories in a distributed manner.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Hash algorithms</code></p>\n</td>\n<td>\n<p><code>A hash algorithm, also referred to as a hash function, is a mathematical procedure that accepts input of any size and generates a fixed-size output called the hash value or hash code.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Hashicorp's Vault</code></p>\n</td>\n<td>\n<p><code>An open-source, identity-based secret and encryption management tool.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Hijacking</code></p>\n</td>\n<td>\n<p><code>A type of cyberattack in which an unauthorized person or entity intercepts and manipulates communication between two parties who believe that they are directly communicating with each other.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Hypertext Transport Protocol Secure (HTTPS)</code></p>\n</td>\n<td>\n<p><code>Used for secure communication between computers over the World Wide Web (WWW). It ensures that the data exchanged between the browser and the website remains confidential and protected from unauthorized access.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Identification and Access Management (IAM)</code></p>\n</td>\n<td>\n<p><code>Important security mechanisms to grant permissions to applications and systems within cloud infrastructures.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Integrity</code></p>\n</td>\n<td>\n<p><code>A cryptographic service that guarantees data has not been modified or tampered with during or after reception and helps support the anti-tampering of data for users needing data verification between sender and receiver.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Interoperable</code></p>\n</td>\n<td>\n<p><code>The ability of diverse systems, software, or components to collaborate, function cohesively, and exchange information effectively and seamlessly.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Intrusion detection</code></p>\n</td>\n<td>\n<p><code>The ongoing detection of any cyberattacks, threats, or intrusions that may compromise an application or system.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Linux kernel</code></p>\n</td>\n<td>\n<p><code>Core component of an operating system that provides a platform for running programs and various services on top of it.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Man-in-the-middle attacks</code></p>\n</td>\n<td>\n<p><code>A type of cyberattack wherein the attacker covertly intercepts and potentially modifies the communication between two parties who are under the impression that they are directly communicating with each other.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Message digests</code></p>\n</td>\n<td>\n<p><code>Cryptographic hash functions used to compute checksums of data blocks. It can also be used to sign and verify signatures.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Network firewall</code></p>\n</td>\n<td>\n<p><code>A security device or software that serves as a protective barrier between an internal network, like a corporate network, and an external network, such as the internet. Its role is to regulate and observe incoming and outgoing network traffic.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Network layer</code></p>\n</td>\n<td>\n<p><code>The third layer of the OSI model handles data transmission and control of the subnet.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Network mapper (Nmap)</code></p>\n</td>\n<td>\n<p><code>Used to discover hosts and services on a computer network by sending packets and analyzing responses.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Network security</code></p>\n</td>\n<td>\n<p><code>Detects application and system anomalies and monitors a network using a network tool such as Nmap or Snort.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Open Systems Interconnection (OSI model)</code></p>\n</td>\n<td>\n<p><code>Enables communication between diverse communication systems using standard protocols.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Open-source software library (OpenSSL)</code></p>\n</td>\n<td>\n<p><code>A library of software that implements the Secure Socket Layer (or SSL) protocol. It is an open-source toolkit to ensure secure communication with cryptography for all types of communication, from personal to commercial and e-commerce transactions.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Orchestration</code></p>\n</td>\n<td>\n<p><code>The automated configuration, management, and coordination of computer systems, applications, and services.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>OWASP</code></p>\n</td>\n<td>\n<p><code>Open Web Application Security Project</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>PGP</code></p>\n</td>\n<td>\n<p><code>Pretty good privacy</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Physical layer</code></p>\n</td>\n<td>\n<p><code>The lowest layer of the OSI model transmits bits of raw information.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Presentation layer</code></p>\n</td>\n<td>\n<p><code>The sixth layer of the OSI model focuses on the syntax and semantics of data being transmitted from one point to another.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Private key</code></p>\n</td>\n<td>\n<p><code>A confidential piece of information utilized to demonstrate ownership of digital assets.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Process for Attack Simulation and Threat Analysis (PASTA)</code></p>\n</td>\n<td>\n<p><code>A risk-based model that connects to business objectives and technical requirements.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Public key</code></p>\n</td>\n<td>\n<p><code>A cryptographic key used for the encryption and validation of digital signatures.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Public key cryptography</code></p>\n</td>\n<td>\n<p><code>A public cryptographic algorithm that uses public and private keys. Rivest, Shamir, and Adleman (or RSA) is the most popular implementation of public key cryptography. RSA provides secrecy, authentication, and encryption for anyone to use. It is also used to implement prime number generation to generate private keys using different sizes of key lengths depending upon the level of encryption needed.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Role-based access control (RBAC)</code></p>\n</td>\n<td>\n<p><code>An access control framework that regulates resource access according to predefined roles. In an RBAC system, users are allocated specific roles, each linked to a set of permissions that determine the actions or resources accessible to users within that role.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Scrum framework</code></p>\n</td>\n<td>\n<p><code>A framework under which individuals may handle complicated adaptive challenges while producing high-value goods in a productive and creative manner.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Secure shell (SSH)</code></p>\n</td>\n<td>\n<p><code>Secure connection protection for connecting with remote devices, such as physical and cloud servers.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Secure Socket Layer (SSL)</code></p>\n</td>\n<td>\n<p><code>A protocol based on encryption technology that provides secure data transmission over the internet. It ensures that data exchanged between a web browser and a web server remains confidential and protected from unauthorized access during transit.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Security Assertion Markup Language (SAML)</code></p>\n</td>\n<td>\n<p><code>Facilitates the exchange of authentication and authorization data among various entities. It enables smooth and secure authentication across diverse domains, empowering users to access multiple applications and services using a single set of credentials.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Security pattern</code></p>\n</td>\n<td>\n<p><code>A set of rules that represent and define a reusable solution to recurring security threats or issues. By following security patterns, organizations establish robust security frameworks while ensuring the confidentiality, integrity, and availability of the system's data.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Security pattern catalog</code></p>\n</td>\n<td>\n<p><code>Empowers software developers to review and choose security patterns for developing necessary and additional security features for their application code. When developing for deployment, a well-classified security pattern catalog enables developers to reuse security patterns across multiple applications. Software developers also rely on security pattern catalogs to become more aware of the associated security mechanisms.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Serverless computing</code></p>\n</td>\n<td>\n<p><code>A cloud application development and execution model that lets developers build and run code without managing servers or paying for idle cloud infrastructure.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Session layer</code></p>\n</td>\n<td>\n<p><code>The fifth OSI model layer establishes multiple sessions from different machines while establishing consistent sessions if a crash occurs.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Snort</code></p>\n</td>\n<td>\n<p><code>A network intrusion detection and prevention system that provides real-time analysis of network traffic.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Snyk Code</code></p>\n</td>\n<td>\n<p><code>An integrated development tool that performs semantic analysis to discover coding and security bugs throughout the development phase.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Software Development Lifecycle (SDLC)</code></p>\n</td>\n<td>\n<p><code>A framework that specifies the steps involved in software development at each stage. It details the strategy for developing, deploying, and maintaining a program.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Spoofing</code></p>\n</td>\n<td>\n<p><code>A form of network attack that involves manipulating network traffic or data to gain unauthorized access to systems, services, or users.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Static Reviewer</code></p>\n</td>\n<td>\n<p><code>Eliminates well-known vulnerabilities. It is a component within the Security Reviewer suite, compliant with frameworks including the Open Web Application Security Project (or OWASP), Common Vulnerabilities and Exposures (or CVEs), and the National Institute of Standards and Technology (or NIST).</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>STRIDE</code></p>\n</td>\n<td>\n<p><code>STRIDE means Spoofing identity, Tampering with data, Repudiation, Information disclosure, Denial of service, and Elevation of privileges. STRIDE, which came from Microsoft, evaluates applications and systems to find threats and vulnerabilities.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Subnets</code></p>\n</td>\n<td>\n<p><code>A subnetwork (or subnet) is a smaller portion of a larger network partitioned to create more feasible segments of the network with higher efficiency.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Symmetric ciphers</code></p>\n</td>\n<td>\n<p><code>Cryptographic algorithms that use the same key for both encryption and decryption of data.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Symmetric encryption</code></p>\n</td>\n<td>\n<p><code>When the same key is used for both encrypting and decrypting.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>System-call auditing</code></p>\n</td>\n<td>\n<p><code>The retrieval and review of system-call information from a kernel, such as the Linux kernel.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Threat modeling</code></p>\n</td>\n<td>\n<p><code>Provides a process to analyze ongoing threats and eliminate the potential for software coding weaknesses and vulnerabilities.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Threat monitoring</code></p>\n</td>\n<td>\n<p><code>Scanning code repositories and containers to find security issues. Password mishandling, protocol insecurities, and incorrect permissions are examples of issues that you can discover with threat monitoring.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Token management</code></p>\n</td>\n<td>\n<p><code>Involves the procedures and protocols employed in handling and controlling tokens, which are unique pieces of data or strings used in diverse systems and applications.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Transport layer</code></p>\n</td>\n<td>\n<p><code>The fourth layer of the OSI model accepts transmissions or data from the network layer and chops them into smaller units or packets for passing them back to the network layer.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Transport Layer Security (TLS)</code></p>\n</td>\n<td>\n<p><code>A protocol based on encryption technology used to secure communications over a computer network. It is the successor to SSL and is designed using an advanced encryption algorithm.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Two-factor authentication</code></p>\n</td>\n<td>\n<p><code>This added security measure is employed to safeguard user accounts and digital data. It demands that users present two distinct forms of identification before obtaining access to a system, service, or application.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Unified Modelling Language (UML)</code></p>\n</td>\n<td>\n<p><code>Can visually model and represent a system for a better understanding of the system's architecture and design.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Visual, Agile, and Simple Threat (VAST)</code></p>\n</td>\n<td>\n<p><code>An agile methodology with application and operational threat models. VAST uses process-flow diagrams to represent the architectural perspective.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Vulnerability patching</code></p>\n</td>\n<td>\n<p><code>The distribution of security updates or patches improves functionality or eliminates vulnerabilities in an IT system or service.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Vulnerability scanner</code></p>\n</td>\n<td>\n<p><code>A specialized software tool designed to detect and evaluate security ineffectiveness in computer systems, networks, applications, and other digital assets.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Vulnerability scanning</code></p>\n</td>\n<td>\n<p><code>The search for security vulnerabilities from within the code and outside of an application.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Web services security</code></p>\n</td>\n<td>\n<p><code>A set of measures and protocols implemented to ensure confidentiality, integrity, and authentication of data exchanged between web services and their clients over the internet.</code></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>",
+                "tags": [],
+                "collections": [
+                    "GI4MBUY7"
+                ],
+                "relations": {},
+                "dateAdded": "2025-03-29T11:21:45Z",
+                "dateModified": "2025-03-29T15:47:08Z"
+            }
+        },
+        {
+            "key": "EIF2CE8B",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/EIF2CE8B",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/EIF2CE8B",
+                    "type": "text/html"
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "EIF2CE8B",
+                "version": 0,
+                "itemType": "note",
+                "note": "<div data-schema-version=\"9\"><h1>01 Vulnerability Scanning and Threat Modeling</h1>\n<ul>\n<li>\nVulnerability scanning identifies security weaknesses within and outside an application's code.\n</li>\n<li>\nVulnerability scans should consider platform configuration, patch levels, and application composition.\n</li>\n<li>\nVulnerability scans should cover the entire application flow.\n</li>\n<li>\nSAST tools like Coverity, CodeSonar, Snyk Code, and Static Reviewer are used for vulnerability scanning.\n</li>\n<li>\nThreat modeling identifies, categorizes, and enumerates security threats.\n</li>\n<li>\nThreat modeling is best performed during the design phase of the SDLC.\n</li>\n<li>\nPopular threat modeling methodologies include PASTA, VAST, and STRIDE.\n</li>\n</ul>\n<h2>Vulnerability Scanning</h2>\n<p>Vulnerability scanning is the process of searching for security weaknesses both within the source code of an application and from an external perspective. This involves analyzing the application to identify potential entry points for malicious actors and flaws in the code that could be exploited. Vulnerability scanners are designed to work with various programming languages, including C, C++, Java, Python, and PHP.</p>\n<h3>Common Code Vulnerabilities</h3>\n<p>Vulnerability scans typically look for common weaknesses such as:</p>\n<ul>\n<li>\n<strong>SQL Injection:</strong> Exploiting vulnerabilities in database queries to gain unauthorized access or manipulate data.\n</li>\n<li>\n<strong>Cross-Site Scripting (XSS):</strong> Injecting malicious scripts into websites viewed by other users.\n</li>\n<li>\n<strong>Path Traversal:</strong> Exploiting insufficient security validation to access files and directories outside the intended scope in web applications.\n</li>\n</ul>\n<h3>Guidelines for Performing Vulnerability Scanning</h3>\n<p>To ensure effective vulnerability scanning and a secure design, consider the following guidelines:</p>\n<ul>\n<li>\n<strong>Platform Specificity:</strong> Base scans on the specific configuration of the platform, including operating systems and server software.\n</li>\n<li>\n<strong>Patch Levels:</strong> Account for the current patch levels of all software components, as outdated software often contains known vulnerabilities.\n</li>\n<li>\n<strong>Application Composition:</strong> Consider all the different parts and dependencies of the application.\n</li>\n<li>\n<strong>User Credentials (for Web Applications):</strong> For web applications, providing user credentials may be necessary to scan the application flow as a user would interact with it.\n</li>\n<li>\n<strong>Full Application Coverage:</strong> Vulnerability scans should not be limited to specific parts but should cover the entire application flow, including all components, the underlying technology stack, and any supporting platforms.\n</li>\n</ul>\n<h3>Vulnerability Scanning Tools</h3>\n<p>Several tools are available to assist with vulnerability scanning. Some popular examples of Static Application Security Testing (SAST) tools include:</p>\n<ul>\n<li>\n<strong>Coverity:</strong> An incremental analysis scanner that supports languages like C, C++, Java, and Python.\n</li>\n<li>\n<strong>CodeSonar:</strong> Utilizes abstraction techniques to model code behavior and identify weaknesses in program paths and variables.\n</li>\n<li>\n<strong>Snyk Code:</strong> An integrated development environment (IDE) tool that performs semantic analysis to find coding and security bugs during the development process.\n</li>\n<li>\n<strong><span style=\"background-color: #5fb23680\">Static Reviewer:</span></strong><span style=\"background-color: #5fb23680\"> A component of the Security Reviewer suite that focuses on eliminating well-known vulnerabilities and aligns with frameworks like OWASP, CVEs, and NIST.</span>\n</li>\n</ul>\n<h2>Threat Modeling</h2>\n<p>Threat modeling is a structured process for identifying, categorizing, and enumerating potential security threats to an application or system. It provides a framework for analyzing ongoing threats and proactively addressing potential software coding weaknesses and vulnerabilities.</p>\n<p><img alt=\"\" data-attachment-key=\"ZUV63TMM\" width=\"899\" height=\"599\"></p>\n<h3>Threat Modeling Process</h3>\n<p>Threat models often use diagrams to visually represent data flows within software applications, making it easier to understand potential attack vectors and vulnerabilities.</p>\n<h3>Threat Modeling in the Software Development Lifecycle (SDLC)</h3>\n<p>The optimal time to implement threat modeling is during the design phase of the Software Development Lifecycle (SDLC). By identifying and mitigating potential threats early in the development process, you can significantly reduce the likelihood of software vulnerabilities and eliminate weaknesses before they are coded into the application.</p>\n<p><img alt=\"\" data-attachment-key=\"4U8GDCHZ\" width=\"1520\" height=\"662\"></p>\n<h3>Popular Threat Modeling Methodologies</h3>\n<p>Several established threat modeling methodologies can be used:</p>\n<ul>\n<li>\n<strong>Process for Attack Simulation and Threat Analysis (PASTA):</strong> A risk-based model that emphasizes aligning security efforts with business objectives and technical requirements.\n</li>\n<li>\n<strong>Visual, Agile, and Simple Threat (VAST):</strong> An agile methodology that focuses on creating application threat models and operational threat models, utilizing process-flow diagrams to represent the architectural perspective.\n</li>\n<li>\n<p><strong>STRIDE:</strong> An acronym representing six common threat categories:</p>\n<ul>\n<li>\n<strong>Spoofing identity:</strong> Pretending to be someone or something else.\n</li>\n<li>\n<strong>Tampering with data:</strong> Modifying data in an unauthorized manner.\n</li>\n<li>\n<strong>Repudiation:</strong> Denying that an action took place.\n</li>\n<li>\n<strong>Information disclosure:</strong> Exposing confidential information to unauthorized individuals.\n</li>\n<li>\n<strong>Denial of service:</strong> Preventing legitimate users from accessing resources.\n</li>\n<li>\n<strong>Elevation of privileges:</strong> Gaining unauthorized access to higher-level functions or data.\n</li>\n</ul>\n<p>Developed by Microsoft, STRIDE is used to evaluate applications and systems to identify potential threats and vulnerabilities within these categories.</p>\n</li>\n</ul>\n<h3>Conclusion</h3>\n<p>In summary, vulnerability scanning is a crucial process for finding security flaws in code, while threat modeling is a proactive approach to identify and mitigate potential security threats early in the software development lifecycle. Both practices are essential for building secure and resilient applications.</p>\n</div>",
+                "tags": [],
+                "collections": [
+                    "GI4MBUY7"
+                ],
+                "relations": {},
+                "dateAdded": "2025-03-29T11:20:54Z",
+                "dateModified": "2025-03-29T15:10:36Z"
+            }
+        },
+        {
+            "key": "38MVYV5Y",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/38MVYV5Y",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/38MVYV5Y",
+                    "type": "text/html"
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "38MVYV5Y",
+                "version": 0,
+                "itemType": "note",
+                "note": "<div data-schema-version=\"9\"><h1>00 Course Glossary</h1>\n<h2>Application Security for Developers and DevOps Professionals</h2>\n<table>\n<tbody>\n<tr>\n<th>\n<p><code>Term</code></p>\n</th>\n<th>\n<p><code>Definition</code></p>\n</th>\n</tr>\n<tr>\n<td>\n<p><code>Access control</code></p>\n</td>\n<td>\n<p><code>A security measure employed to govern and control the access and permissions provided to users, processes, or entities operating within a system or network.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Ad hoc testing</code></p>\n</td>\n<td>\n<p><code>Random, informal testing without a plan for the discovery of a vulnerability.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Alerting</code></p>\n</td>\n<td>\n<p><code>Responsive component of a monitoring system that performs actions based on changes in metric values.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Application layer</code></p>\n</td>\n<td>\n<p><code>The seventh and topmost layer of the OSI model is used by developers for building and deploying applications.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Application Programming Interface (API)</code></p>\n</td>\n<td>\n<p><code>A collection of guidelines, protocols, and tools that allow diverse software applications to communicate with each other.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Asymmetric encryption</code></p>\n</td>\n<td>\n<p><code>When different keys are used to encrypt and decrypt.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Authentication</code></p>\n</td>\n<td>\n<p><code>Process of verifying a user's identity.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Authorization</code></p>\n</td>\n<td>\n<p><code>Process of determining a user's access rights.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>BDD-Security</code></p>\n</td>\n<td>\n<p><code>A security testing framework that uses behavior-driven development.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Blind cross-site scripting</code></p>\n</td>\n<td>\n<p><code>Injects a script that has a payload to be executed on the back-end of an application by the user or the administrator without their knowing about it.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Broken access control</code></p>\n</td>\n<td>\n<p><code>When attackers can access, modify, delete, or perform actions outside of an application or system's intended permissions.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Buffer overflows</code></p>\n</td>\n<td>\n<p><code>One of the four pervasive types of SQL injection attacks. This happens when a program allocates more data in a buffer than the buffer can store. A buffer overflow causes a system or program to crash or execute malicious code.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Burp Suite</code></p>\n</td>\n<td>\n<p><code>A vulnerability scanner that is popular for scanning web applications. You can set up automated scans of a website or perform manual scanning by crawling the overall structure of a website or web application.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Checksums</code></p>\n</td>\n<td>\n<p><code>Derived values from data employed to identify errors that may have occurred during the transmission or storage of that data.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>CI/CD</code></p>\n</td>\n<td>\n<p><code>CI/CD, which stands for continuous integration (CI) and continuous delivery (CD), creates a faster and more precise way of combining the work of different people into one cohesive product.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>CI/CD pipeline</code></p>\n</td>\n<td>\n<p><code>The continuous integration/continuous delivery (CI/CD) pipeline is an agile DevOps workflow focused on a frequent and reliable software delivery process.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Click</code></p>\n</td>\n<td>\n<p><code>A framework for writing command line applications.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Code injection</code></p>\n</td>\n<td>\n<p><code>One of the four pervasive types of SQL injection attacks.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Code practices</code></p>\n</td>\n<td>\n<p><code>They are part of the software development process for secure software development.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Code review</code></p>\n</td>\n<td>\n<p><code>In code review, you use automated static analysis security testing and perform manual code inspection.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Code scanners</code></p>\n</td>\n<td>\n<p><code>Provide vulnerability reporting and insights after they scan code in your repositories.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>CodeSonar</code></p>\n</td>\n<td>\n<p><code>A static code analysis tool from GrammaTech is used to find and fix bugs and security vulnerabilities in source and binary code.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Container scanning</code></p>\n</td>\n<td>\n<p><code>Scans code deployed to containers, which may contain vulnerabilities and security threats.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Containers</code></p>\n</td>\n<td>\n<p><code>Executable software units in which application code is packaged along with its libraries and dependencies in common ways to run the code anywhere, whether it be on a desktop, traditional IT, or the cloud.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Coverity</code></p>\n</td>\n<td>\n<p><code>An incremental analysis scanner for programming languages such as C, C++, Java, and Python.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Credential stuffing</code></p>\n</td>\n<td>\n<p><code>Occurs when an attacker has a list of legitimate usernames and passwords. The attacker employs automation to use those passwords in an attack.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Cross-site scripting</code></p>\n</td>\n<td>\n<p><code>When an application takes untrusted data and then sends it to a web browser without proper validation or escaping. You may see cross-site scripting represented as \"XSS.\"</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Cross-site scripting attack</code></p>\n</td>\n<td>\n<p><code>It can deface websites by replacing or removing images or content.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Cryptographic keys</code></p>\n</td>\n<td>\n<p><code>Essential tools used to secure data from cyberattacks during transmission and storage.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Cryptographic service</code></p>\n</td>\n<td>\n<p><code>A confidentiality service that keeps data secret. Its purpose is to secure data from others, even when the data traverses a non-secure network without the necessary credentials.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>DAST</code></p>\n</td>\n<td>\n<p><code>Dynamic application security testing (or DAST) evaluates the application from the outside in through the front end.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Data link layer</code></p>\n</td>\n<td>\n<p><code>The second layer of the OSI model transforms the transmitted raw data into a line free from undetected errors.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Dependencies</code></p>\n</td>\n<td>\n<p><code>It adds features and functionality to the software without writing it from scratch. Dependencies are reusable codes found in a library (package or module) that your code makes calls to.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>DevSecOps</code></p>\n</td>\n<td>\n<p><code>DevSecOps (DevOps with an emphasis on security) is a set of practices that automate security integration across the software development lifecycle (or SDLC), from original design to integration, testing, deployment, and software delivery.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Dialog control</code></p>\n</td>\n<td>\n<p><code>Refers to the management and coordination of communication sessions between two devices or systems.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Dynamic analysis</code></p>\n</td>\n<td>\n<p><code>Dynamic analysis is the process of testing and evaluating an application as it is executing.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>E-commerce transactions</code></p>\n</td>\n<td>\n<p><code>Refer to the buying and selling of goods and services over the internet.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Encryption</code></p>\n</td>\n<td>\n<p><code>Process of encoding information so that only those users with authorized access can decode it.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Endpoint security</code></p>\n</td>\n<td>\n<p><code>Detects application and system anomalies and protects systems, servers, and various types of devices connected to a network.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Exhaustive documentation</code></p>\n</td>\n<td>\n<p><code>Security pattern documentation that is accessible, precise, easy to read, and follow through. Software developers are inclined to refer to such documentation.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Exploratory testing</code></p>\n</td>\n<td>\n<p><code>Takes place outside of formal testing.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>eXtensible Access Control Markup Language (XACML)</code></p>\n</td>\n<td>\n<p><code>A standard used to define and implement access control policies. It offers a comprehensive framework for managing and enforcing access control decisions across different systems, applications, and services. This empowers organizations to regulate resource access and specific actions based on established policies.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>eXtensible Markup Language (XML)</code></p>\n</td>\n<td>\n<p><code>A widely utilized markup language created to organize, transport, and structure data in a format that is human-readable and platform-independent.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Firewall</code></p>\n</td>\n<td>\n<p><code>A network security device or software that acts as a barrier between a trusted internal network and an untrusted external network like the internet.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Flask</code></p>\n</td>\n<td>\n<p><code>It is a web framework written in Python that provides you with tools, libraries, and other features for building web applications.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Function call injection</code></p>\n</td>\n<td>\n<p><code>One of the four pervasive types of SQL injection attacks.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Functional Verification Test (FVT)</code></p>\n</td>\n<td>\n<p><code>Validates the software's functionality using the solution specification document, design papers, and use case documents.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>GitHub</code></p>\n</td>\n<td>\n<p><code>An online platform that offers version control for software development projects, enabling developers to collaborate on code, monitor changes, and manage their source code repositories in a distributed manner.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>GitHub SCA</code></p>\n</td>\n<td>\n<p><code>It is for viewing dependency packages and vulnerabilities while using GitHub.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>GPL</code></p>\n</td>\n<td>\n<p><code>General Public License.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Guantlt</code></p>\n</td>\n<td>\n<p><code>A security framework that hooks into security tools for simplified integration.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Hash algorithms</code></p>\n</td>\n<td>\n<p><code>A hash algorithm, also referred to as a hash function, is a mathematical procedure that accepts input of any size and generates a fixed-size output called the hash value or hash code.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Hashicorp's Vault</code></p>\n</td>\n<td>\n<p><code>An open-source, identity-based secret and encryption management tool.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Hijacking</code></p>\n</td>\n<td>\n<p><code>A type of cyberattack in which an unauthorized person or entity intercepts and manipulates communication between two parties who believe that they are directly communicating with each other.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>HTTP Host header injection</code></p>\n</td>\n<td>\n<p><code>When creating URIs for links in web applications, developers typically use the HTTP host header available in the HTTP request that is sent from the client side. An attacker can exploit this practice by sending a fake header that contains a domain name that, for example, can be used to corrupt the web cache or password reset emails.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Hypertext Transport Protocol Secure (HTTPS)</code></p>\n</td>\n<td>\n<p><code>Used for secure communication between computers over the World Wide Web (WWW).</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>IAST</code></p>\n</td>\n<td>\n<p><code>Interactive Application Self-testing (or IAST) scans for vulnerabilities during testing.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Identification and Access Management (IAM)</code></p>\n</td>\n<td>\n<p><code>Important security mechanisms to grant permissions to applications and systems within cloud infrastructures.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Insecure development environment</code></p>\n</td>\n<td>\n<p><code>It is an environment where production systems are secure, but the development environment where coding is built and deployed is a free-for-all with direct connections to the production infrastructure.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Integration tests</code></p>\n</td>\n<td>\n<p><code>For testing the integration of several coded classes within an application.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Integrity</code></p>\n</td>\n<td>\n<p><code>A cryptographic service that guarantees data has not been modified or tampered with during or after reception and helps support the anti-tampering of data for users needing data verification between sender and receiver.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Interoperable</code></p>\n</td>\n<td>\n<p><code>The ability of diverse systems, software, or components to collaborate, function cohesively, and exchange information effectively and seamlessly.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Intrusion detection</code></p>\n</td>\n<td>\n<p><code>The ongoing detection of any cyberattacks, threats, or intrusions that may compromise an application or system.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>ItsDangerous</code></p>\n</td>\n<td>\n<p><code>A secure data integrity dependency.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Jinja</code></p>\n</td>\n<td>\n<p><code>A template language for rendering web pages.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>JSON</code></p>\n</td>\n<td>\n<p><code>JavaScript Object Notation.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>LDAP</code></p>\n</td>\n<td>\n<p><code>Lightweight Directory Access Protocol</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Lightweight Directory Access Protocol (LDAP) injection</code></p>\n</td>\n<td>\n<p><code>Exploits websites that construct LDAP statements from data provided by users. In this type of attack, an attacker might modify LDAP statements using a local proxy in order to execute arbitrary commands (granting permissions to unauthorized queries) or modify the content of the LDAP tree.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Linux kernel</code></p>\n</td>\n<td>\n<p><code>A core component of an operating system that provides a platform for running programs and various services on top of it.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Logstash</code></p>\n</td>\n<td>\n<p><code>A data processing pipeline that collects, parses, and stores logs for future use. IBM Financial Crimes Alerts Insight with Watson (FCAI) uses Logstash to collect and normalize log files.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Man-in-the-middle attacks</code></p>\n</td>\n<td>\n<p><code>A type of cyberattack wherein the attacker covertly intercepts and potentially modifies the communication between two parties who are under the impression that they are directly communicating with each other.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>MarkupSafe</code></p>\n</td>\n<td>\n<p><code>A security dependency for untrusted input.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Message digests</code></p>\n</td>\n<td>\n<p><code>Cryptographic hash functions are used to compute checksums of data blocks. It can also be used to sign and verify signatures.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Mittn</code></p>\n</td>\n<td>\n<p><code>Popular tool suite to include in continuous integration.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Multi-factor authentication (MFA)</code></p>\n</td>\n<td>\n<p><code>It is an identity verification method that requires users to provide at least one authentication factor in addition to a password, or at least two authentication factors instead of a password, to gain access to a website, application, or network.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Nessus</code></p>\n</td>\n<td>\n<p><code>It is a vulnerability scanner that scans operating systems, network devices, and critical infrastructure for vulnerabilities, threats, and compliance violations.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Network firewall</code></p>\n</td>\n<td>\n<p><code>A security device or software that serves as a protective barrier between an internal network, like a corporate network, and an external network, such as the internet. Its role is to regulate and observe incoming and outgoing network traffic.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Network layer</code></p>\n</td>\n<td>\n<p><code>The third layer of the OSI model handles data transmission and control of the subnet.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Network mapper (Nmap)</code></p>\n</td>\n<td>\n<p><code>Used to discover hosts and services on a computer network by sending packets and analyzing responses.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Network security</code></p>\n</td>\n<td>\n<p><code>Detects application and system anomalies and monitors a network using a network tool such as Nmap or Snort.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Open Systems Interconnection (OSI model)</code></p>\n</td>\n<td>\n<p><code>Enables communication between diverse communication systems using standard protocols.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Open-source software library (OpenSSL)</code></p>\n</td>\n<td>\n<p><code>A library of software that implements the Secure Socket Layer (or SSL) protocol. It is an open-source toolkit to ensure secure communication with cryptography for all types of communication, from personal to commercial and e-commerce transactions.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Operating system command injection</code></p>\n</td>\n<td>\n<p><code>OS command injection, also termed shell injection, is a web security vulnerability where an attacker can execute arbitrary operating system (OS) commands on a server running an application and can fully compromise it along with all its data.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Orchestration</code></p>\n</td>\n<td>\n<p><code>The automated configuration, management, and coordination of computer systems, applications, and services.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>OWASP</code></p>\n</td>\n<td>\n<p><code>Open Web Application Security Project, launched in 2001 and formally formed in 2004, is a foundation that focuses on software security.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>OWASP Dependency-Check</code></p>\n</td>\n<td>\n<p><code>It is an SCA for checking for vulnerabilities within project dependencies.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>OWASP Dependency-Track</code></p>\n</td>\n<td>\n<p><code>It is an SCA for identifying any risks within the software supply chain.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>OWASP Software Component Verification Standard</code></p>\n</td>\n<td>\n<p><code>It is a community-supported effort to build a sustainable framework for reducing risk within a software supply chain.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>OWASP Top 10</code></p>\n</td>\n<td>\n<p><code>A report that identifies current software security vulnerability concerns and represents a consensus from the OWASP core team, security analysts, security organizations, and other security experts. The OWASP Top 10 is used globally as a standard check for web application security.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>PGP</code></p>\n</td>\n<td>\n<p><code>Pretty good privacy</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Physical layer</code></p>\n</td>\n<td>\n<p><code>The lowest layer of the OSI model transmits bits of raw information.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Presentation layer</code></p>\n</td>\n<td>\n<p><code>The sixth layer of the OSI model focuses on the syntax and semantics of data being transmitted from one point to another.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Principle of Least Privilege (PoLP)</code></p>\n</td>\n<td>\n<p><code>Users should only have the minimum permissions necessary to perform their tasks.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Private key</code></p>\n</td>\n<td>\n<p><code>A confidential piece of information utilized to demonstrate ownership of digital assets.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Process for Attack Simulation and Threat Analysis (PASTA)</code></p>\n</td>\n<td>\n<p><code>A risk-based model that connects to business objectives and technical requirements.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Public key</code></p>\n</td>\n<td>\n<p><code>A cryptographic key is used for the encryption and validation of digital signatures.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Public key cryptography</code></p>\n</td>\n<td>\n<p><code>A public cryptographic algorithm that uses public and private keys. Rivest, Shamir, and Adleman (or RSA) is the most popular implementation of public key cryptography. RSA provides secrecy, authentication, and encryption for anyone to use. It is also used to implement prime number generation to generate private keys using different sizes of key lengths depending upon the level of encryption needed.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>RASP</code></p>\n</td>\n<td>\n<p><code>Runtime Application Self-Protection (or RASP) looks for assaults in the production environment.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Reflected cross-site scripting attack</code></p>\n</td>\n<td>\n<p><code>A reflected cross-site scripting attack injects a script to be reflected from the attacked server to users on a system.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Role-based access control (RBAC)</code></p>\n</td>\n<td>\n<p><code>An access control framework that regulates resource access according to predefined roles. In an RBAC system, users are allocated specific roles, each linked to a set of permissions that determine the actions or resources accessible to users within that role.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Runtime protection</code></p>\n</td>\n<td>\n<p><code>Runtime protection is a modern security mechanism that shields applications against threats while the applications are running.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>SALSA</code></p>\n</td>\n<td>\n<p><code>Supply-chain Levels for Software Artifacts (or SALSA) provides a security framework for improving integrity and preventing tampering by implementing standards and controls.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>SAST</code></p>\n</td>\n<td>\n<p><code>Static application security testing (or SAST) examines source code to identify security flaws that render your organization's applications vulnerable to attack.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>SCA</code></p>\n</td>\n<td>\n<p><code>Software component analysis (or SCA) is the process of determining which open-source components and dependencies are used in your application.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>SCM</code></p>\n</td>\n<td>\n<p><code>Source control management.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Scrum framework</code></p>\n</td>\n<td>\n<p><code>A framework under which individuals may handle complicated adaptive challenges while producing high-value goods in a productive and creative manner.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Secure development environment</code></p>\n</td>\n<td>\n<p><code>A secure development environment is an ongoing process of securing the network, compute resources and storage devices on-premises and in the cloud.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Secure shell (SSH)</code></p>\n</td>\n<td>\n<p><code>Secure connection protection for connecting with remote devices, such as physical and cloud servers.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Secure Socket Layer (SSL)</code></p>\n</td>\n<td>\n<p><code>A protocol based on encryption technology that provides secure data transmission over the internet. It ensures that data exchanged between a web browser and a web server remains confidential and protected from unauthorized access during transit.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Security Assertion Markup Language (SAML)</code></p>\n</td>\n<td>\n<p><code>Facilitates the exchange of authentication and authorization data among various entities. It enables smooth and secure authentication across diverse domains, empowering users to access multiple applications and services using a single set of credentials.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Security pattern</code></p>\n</td>\n<td>\n<p><code>A set of rules that represent and define a reusable solution to recurring security threats or issues. By following security patterns, organizations establish robust security frameworks while ensuring the confidentiality, integrity, and availability of the system's data.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Security pattern catalog</code></p>\n</td>\n<td>\n<p><code>Empowers software developers to review and choose security patterns for developing necessary and additional security features for their application code. When developing for deployment, a well-classified security pattern catalog enables developers to reuse security patterns across multiple applications.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Security testing</code></p>\n</td>\n<td>\n<p><code>Security testing provides a secure code baseline for development. It should be performed on all new codes to reduce the risk of impacts.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Serverless computing</code></p>\n</td>\n<td>\n<p><code>A cloud application development and execution model that lets developers build and run code without managing servers or paying for idle cloud infrastructure.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Server-side request forgeries (SSRF)</code></p>\n</td>\n<td>\n<p><code>A server site attack results in sensitive information being disclosed or leaked from the back-end server of the application.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Session layer</code></p>\n</td>\n<td>\n<p><code>The fifth OSI model layer establishes multiple sessions from different machines while establishing consistent sessions if a crash occurs.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Snort</code></p>\n</td>\n<td>\n<p><code>A network intrusion detection and prevention system that provides real-time analysis of network traffic.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Snyk</code></p>\n</td>\n<td>\n<p><code>A developer security platform for securing code, dependencies, containers, and infrastructure as code.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Snyk Code</code></p>\n</td>\n<td>\n<p><code>An integrated development tool that performs semantic analysis to discover coding and security bugs throughout the development phase.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Software Development Lifecycle (SDLC)</code></p>\n</td>\n<td>\n<p><code>A framework that specifies the steps involved in software development at each stage. It details the strategy for developing, deploying, and maintaining a program.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Spoofing</code></p>\n</td>\n<td>\n<p><code>A form of network attack that involves manipulating network traffic or data to gain unauthorized access to systems, services, or users.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>SQL</code></p>\n</td>\n<td>\n<p><code>Structured Query Language</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>SQL injection</code></p>\n</td>\n<td>\n<p><code>Takes advantage of the SQL syntax to inject commands that can read or modify a database or compromise the meaning of the original SQL query. In this type of attack, an attacker can spoof an identity; expose, tamper with, destroy, or make existing data unavailable; or become the administrator of the database server.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>SQL injection attacks</code></p>\n</td>\n<td>\n<p><code>Attempt to exploit web application vulnerabilities by concatenating user input with SQL queries. If successful, these attacks can execute malicious SQL commands using a legitimate web application connection.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>SQL manipulation</code></p>\n</td>\n<td>\n<p><code>One of the most common types of SQL injection and an attack that modifies an SQL statement of set operations.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Static analysis</code></p>\n</td>\n<td>\n<p><code>Static analysis examines all code or runtime binaries to help detect common vulnerabilities without executing code or running programs.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Static Reviewer</code></p>\n</td>\n<td>\n<p><code>Eliminates well-known vulnerabilities.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Stored cross-site scripting</code></p>\n</td>\n<td>\n<p><code>A stored cross-site scripting attack injects a script that becomes permanently stored in a database or on a targeted server.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>STRIDE</code></p>\n</td>\n<td>\n<p><code>STRIDE means Spoofing identity, Tampering with data, Repudiation, Information disclosure, Denial of service, and Elevation of privileges. STRIDE, which came from Microsoft, evaluates applications and systems to find threats and vulnerabilities.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Subnets</code></p>\n</td>\n<td>\n<p><code>A subnetwork (or subnet) is a smaller portion of a larger network partitioned to create more feasible segments of the network with higher efficiency.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>SWID Tags</code></p>\n</td>\n<td>\n<p><code>Software Identification Tags (or SWID Tags) are standard to track software installed on managed devices.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Symmetric ciphers</code></p>\n</td>\n<td>\n<p><code>Cryptographic algorithms use the same key for both encryption and decryption of data.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Symmetric encryption</code></p>\n</td>\n<td>\n<p><code>When the same key is used for both encrypting and decrypting.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>System-call auditing</code></p>\n</td>\n<td>\n<p><code>The retrieval and review of system-call information from a kernel, such as the Linux kernel.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Threat modeling</code></p>\n</td>\n<td>\n<p><code>Provides a process to analyze ongoing threats and eliminate the potential for software coding weaknesses and vulnerabilities.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Threat monitoring</code></p>\n</td>\n<td>\n<p><code>Scanning code repositories and containers to find security issues. Password mishandling, protocol insecurities, and incorrect permissions are examples of issues that you can discover with threat monitoring.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Token management</code></p>\n</td>\n<td>\n<p><code>Involves the procedures and protocols employed in handling and controlling tokens, which are unique pieces of data or strings used in diverse systems and applications.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Transport layer</code></p>\n</td>\n<td>\n<p><code>The fourth layer of the OSI model accepts transmissions or data from the network layer and chops them into smaller units or packets for passing them back to the network layer.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Transport Layer Security (TLS)</code></p>\n</td>\n<td>\n<p><code>A protocol based on encryption technology used to secure communications over a computer network. It is the successor to SSL and is designed using an advanced encryption algorithm.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Two-factor authentication</code></p>\n</td>\n<td>\n<p><code>This added security measure is employed to safeguard user accounts and digital data. It demands that users present two distinct forms of identification before obtaining access to a system, service, or application.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Unified Modelling Language (UML)</code></p>\n</td>\n<td>\n<p><code>Can visually model and represent a system for a better understanding of the system's architecture and design.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Unit testing</code></p>\n</td>\n<td>\n<p><code>For testing classes and methods to evaluate application programming interface (or API) contracts, you can perform unit testing on individual classes with limited scope.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Validating input</code></p>\n</td>\n<td>\n<p><code>Validating input means checking (on the server side) that the input provided by the user or attacker is what you expect it to be.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Vault</code></p>\n</td>\n<td>\n<p><code>Developed by HashiCorp, Vault is a token-based storage solution for managing secrets. This tool provides policies that constrain user access and privileges when users interact with a Vault server.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Visual, Agile, and Simple Threat (VAST)</code></p>\n</td>\n<td>\n<p><code>An agile methodology with application and operational threat models. VAST uses process-flow diagrams to represent the architectural perspective.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Vulnerability analysis</code></p>\n</td>\n<td>\n<p><code>It is a method of identifying possible application flaws that could jeopardize your application.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Vulnerability patching</code></p>\n</td>\n<td>\n<p><code>The distribution of security updates or patches improves functionality or eliminates vulnerabilities in an IT system or service.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Vulnerability scanner</code></p>\n</td>\n<td>\n<p><code>A specialized software tool designed to detect and evaluate security ineffectiveness in computer systems, networks, applications, and other digital assets.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Vulnerability scanning</code></p>\n</td>\n<td>\n<p><code>The search for security vulnerabilities from within the code and outside of an application.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Web services security</code></p>\n</td>\n<td>\n<p><code>A set of measures and protocols implemented to ensure confidentiality, integrity, and authentication of data exchanged between web services and their clients over the internet.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>Werkzeug</code></p>\n</td>\n<td>\n<p><code>A web server gateway interface.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>XML</code></p>\n</td>\n<td>\n<p><code>Extensible Markup Language.</code></p>\n</td>\n</tr>\n<tr>\n<td>\n<p><code>ZAP</code></p>\n</td>\n<td>\n<p><code>Zed Attack Proxy (or Zap) is a vulnerability scanner. It is an OWASP tool and open-source software that uses spiders to crawl web applications.</code></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>",
+                "tags": [],
+                "collections": [
+                    "NJPMMW3I"
+                ],
+                "relations": {},
+                "dateAdded": "2025-03-29T11:29:41Z",
+                "dateModified": "2025-03-29T11:30:19Z"
+            }
+        },
+        {
+            "key": "4PK2GILU",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/4PK2GILU",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/4PK2GILU",
+                    "type": "text/html"
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "4PK2GILU",
+                "version": 0,
+                "itemType": "note",
+                "note": "<div data-schema-version=\"9\"><h1><span style=\"color: var(--cds-color-neutral-primary)\"><span style=\"background-color: rgb(255, 255, 255)\">02 Vulnerabilities of CI/CD</span></span></h1>\n<h2><strong><span style=\"color: rgb(31, 31, 31)\"><span style=\"background-color: rgb(255, 255, 255)\">Protect Your Software Pipeline: CI/CD Security</span></span></strong></h2>\n<p><span style=\"color: rgb(31, 31, 31)\"><span style=\"background-color: rgb(255, 255, 255)\">Building upon your understanding of vulnerability management, this reading focuses on a critical area of modern software development: CI/CD pipelines. Just as organizations regularly assess their systems for weaknesses, CI/CD pipelines, which automate the software release process, also require rigorous vulnerability management. This reading will explore the specific vulnerabilities within CI/CD pipelines and how to apply vulnerability management principles to secure them, ensuring a robust and safe software delivery process.</span></span></p>\n<p><span style=\"color: rgb(31, 31, 31)\"><span style=\"background-color: rgb(255, 255, 255)\">Continuous Integration, Continuous Delivery, and Continuous Deployment (CI/CD) pipelines are essential for modern software development. They help teams deliver software faster and more efficiently. But, like any powerful tool, CI/CD pipelines can also introduce security risks if not properly managed.</span></span></p>\n<p><span style=\"color: rgb(31, 31, 31)\"><span style=\"background-color: rgb(255, 255, 255)\">In this guide, you\u2019ll explore common vulnerabilities in CI/CD pipelines. You\u2019ll learn why securing these pipelines is crucial and how to integrate security practices to build a robust and secure software development process. By understanding these vulnerabilities and implementing best practices, you can transform your CI/CD pipeline into a key component of your cybersecurity strategy.</span></span></p>\n<h2><strong><span style=\"color: inherit\"><span style=\"background-color: rgb(255, 255, 255)\">What is CI/CD and Why Does it Matter?</span></span></strong></h2>\n<p><img src=\"https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/_8a698c07d88d40c393addcf2161206f1_unnamed.png?expiry=1742428800000&amp;hmac=bXHxX9mSSoxubT8CXyglulDP39Q9oCtukuuV1Vuw1x0\" alt=\"Diagram illustrating a three-stage CI/CD pipeline, flowing from left to right.]\" data-attachment-key=\"GFDFBWYX\" width=\"801\" height=\"208\"></p>\n<p><span style=\"background-color: rgb(255, 255, 255)\">CI/CD automates the entire software release process, from code creation to deployment. This automation is what enables modern development teams to be agile and respond quickly to user needs. Let's break down the key parts:</span></p>\n<h3><strong><span style=\"color: inherit\"><span style=\"background-color: rgb(255, 255, 255)\">Continuous Integration (CI): Building a Solid Foundation</span></span></strong></h3>\n<p><strong><span style=\"background-color: rgb(255, 255, 255)\">Continuous Integration (CI)</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> is all about frequently merging code changes from different developers into a central location. This triggers automated processes like building the software and running tests. CI catches problems through an automated process: every time code is integrated, the system automatically builds and tests it. This immediate feedback loop reveals integration problems as soon as they occur. CI helps catch integration problems early, leading to higher quality code. Think of it as the foundation of the pipeline.</span></p>\n<h3><strong><span style=\"color: inherit\"><span style=\"background-color: rgb(255, 255, 255)\">Continuous Delivery (CD): Ready to Release</span></span></strong></h3>\n<p><strong><span style=\"background-color: rgb(255, 255, 255)\">Continuous Delivery</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> means your code is always ready to be released to users. After passing automated tests, code is automatically deployed to a staging environment (a practice environment) or prepared for final release. Typically, a manual approval step is still needed before going live to production, which provides a control point.</span></p>\n<h3><strong><span style=\"color: inherit\"><span style=\"background-color: rgb(255, 255, 255)\">Continuous Deployment (CD): Fully Automated Releases</span></span></strong></h3>\n<p><strong><span style=\"background-color: rgb(255, 255, 255)\">Continuous Deployment</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> automates the entire release process. Changes that pass all automated checks are automatically deployed directly to the live production environment, with no manual approval. This is all about speed and efficiency.</span></p>\n<h2><strong><span style=\"color: inherit\"><span style=\"background-color: rgb(255, 255, 255)\">Security Benefits of Continuous Delivery and Deployment</span></span></strong></h2>\n<p><span style=\"background-color: rgb(255, 255, 255)\">You might be wondering how security fits into all this automation. The good news is that Continuous Delivery and Deployment can actually enhance security. CD allows you to build security checks right into your deployment pipeline. This ensures that only thoroughly vetted software versions are released.</span></p>\n<p><span style=\"background-color: rgb(255, 255, 255)\">These automated security checks can include:</span></p>\n<ul>\n<li>\n<span style=\"background-color: rgb(255, 255, 255)\">Dynamic Application Security Testing (DAST): Automated tests that find vulnerabilities in running applications in realistic staging environments.</span>\n</li>\n<li>\n<span style=\"background-color: rgb(255, 255, 255)\">Security Compliance Checks: Automated checks that ensure software meets your organization\u2019s security rules and policies.</span>\n</li>\n<li>\n<span style=\"background-color: rgb(255, 255, 255)\">Infrastructure Security Validations: Checks that make sure the systems hosting your software are secure.</span>\n</li>\n</ul>\n<h2><strong><span style=\"color: inherit\"><span style=\"background-color: rgb(255, 255, 255)\">Why a secure CI/CD Pipelines is Non-Negotiable</span></span></strong></h2>\n<p><span style=\"background-color: rgb(255, 255, 255)\">To grasp the power of CI/CD is vital.&nbsp; Pipeline protection is not optional; it is essential. Consider these points:</span></p>\n<ul>\n<li>\n<strong><span style=\"background-color: rgb(255, 255, 255)\">Secure Automation:</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> CI/CD automates repetitive tasks: building, testing, deploying. When automation is implemented securely, this reduces errors from manual work, speeds processes, and importantly, reduces human errors that create vulnerabilities. However, insecure automation automates the introduction of vulnerabilities at scale.</span>\n</li>\n<li>\n<strong><span style=\"background-color: rgb(255, 255, 255)\">Improved Code Quality Via Security Checks:</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> Automated tests in CI/CD rigorously check code before release. Crucially, this includes automated security tests. This leads to fewer bugs and security weaknesses in final software, but only if security tests integrate effectively within the pipeline.</span>\n</li>\n<li>\n<strong><span style=\"background-color: rgb(255, 255, 255)\">Faster Time to Market for Security Updates:</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> CI/CD accelerates releases. This enables faster delivery of new features, bug fixes, </span><em><span style=\"background-color: rgb(255, 255, 255)\">and security updates</span></em><span style=\"background-color: rgb(255, 255, 255)\">, improving response time to both user needs and security threats. This rapid deployment of security updates is a significant security advantage of a well-secured CI/CD pipeline.</span>\n</li>\n<li>\n<strong><span style=\"background-color: rgb(255, 255, 255)\">Enhanced Collaboration and Feedback with Safety Focus:</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> CI/CD encourages collaboration between development, security, testing, and operations teams. Quick feedback loops aid identification and resolution of vulnerabilities early in development. This collaborative environment is essential to build security into the pipeline and address vulnerabilities proactively.</span>\n</li>\n<li>\n<strong><span style=\"background-color: rgb(255, 255, 255)\">Reduced Risk:</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> Frequent, smaller releases, a result of CI/CD, are less risky than large, infrequent releases. If issues arise (including security issues), pinpointing and fixing the problem becomes easier. This also applies to security vulnerabilities; smaller, frequent releases limit the potential impact of a security flaw introduced in any single release, provided security monitoring and testing remain continuous.</span>\n</li>\n</ul>\n<p><span style=\"background-color: rgb(255, 255, 255)\">In essence, CI/CD is the engine of modern agile software development. It allows for reliable, efficient, and responsive software delivery. However, an unsecured CI/CD pipeline can become a major entry point for vulnerabilities.</span></p>\n<h2><strong><span style=\"color: inherit\"><span style=\"background-color: rgb(255, 255, 255)\">Common CI/CD Pipeline Vulnerabilities: What to Watch Out For</span></span></strong></h2>\n<p><span style=\"background-color: rgb(255, 255, 255)\">Knowing the benefits of CI/CD is only half the battle. You also need to understand the potential security weaknesses. Here are some common vulnerabilities to be aware of:</span></p>\n<h3><strong><span style=\"color: inherit\"><span style=\"background-color: rgb(255, 255, 255)\">Insecure Dependencies: Risks from Third-Party Code</span></span></strong></h3>\n<p><span style=\"background-color: rgb(255, 255, 255)\">CI/CD pipelines often use many third-party libraries and components. If these components have known vulnerabilities (Common Vulnerabilities and Exposures, or CVEs), those vulnerabilities can be unknowingly added to your application during the automated build process.</span></p>\n<p><strong><span style=\"background-color: rgb(255, 255, 255)\">Action Step:</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> Regularly scan and update your dependencies. Make sure you\u2019re using secure versions of all external components.</span></p>\n<h3><strong><span style=\"color: inherit\"><span style=\"background-color: rgb(255, 255, 255)\">Misconfigured Permissions: Controlling Access</span></span></strong></h3>\n<p><span style=\"background-color: rgb(255, 255, 255)\">Weak access controls in CI/CD tools, code repositories, and related systems are a significant vulnerability. Unauthorized access can allow attackers to modify code, pipeline configurations, or inject malicious content.</span></p>\n<p><strong><span style=\"background-color: rgb(255, 255, 255)\">Action Step:</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> Implement strong access management using Role-Based Access Control (RBAC). Ensure only authorized individuals can access and change critical pipeline elements.</span></p>\n<h3><strong><span style=\"color: inherit\"><span style=\"background-color: rgb(255, 255, 255)\">Lack of Automated Security Testing: Missing Critical Checks</span></span></strong></h3>\n<p><span style=\"background-color: rgb(255, 255, 255)\">Failing to include automated security testing in your CI/CD pipeline is a serious error. Without tools like SAST and DAST, you are almost guaranteed to release software full of vulnerabilities that will go undetected until after it's live, leading to significantly higher costs and effort to fix..</span></p>\n<p><strong><span style=\"background-color: rgb(255, 255, 255)\">Action Step:</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> Integrate automated security testing (SAST and DAST) into your CI/CD pipeline. This should be a core part of your secure CI/CD strategy.</span></p>\n<h3><strong><span style=\"color: inherit\"><span style=\"background-color: rgb(255, 255, 255)\">Exposed Secrets: Protecting Sensitive Information</span></span></strong></h3>\n<p><span style=\"background-color: rgb(255, 255, 255)\">Hardcoding sensitive data like API keys, passwords, and tokens directly into code or pipeline settings is a serious security mistake. If exposed, these secrets can lead to major security breaches.</span></p>\n<p><strong><span style=\"background-color: rgb(255, 255, 255)\">Action Step:</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> Never hardcode secrets. Use secure vaults or dedicated secrets management tools to store and manage sensitive information. Enforce this practice across your team.</span></p>\n<h3><strong><span style=\"color: inherit\"><span style=\"background-color: rgb(255, 255, 255)\">Unsecured Build Environments: Protecting the Pipeline Infrastructure</span></span></strong></h3>\n<p><span style=\"background-color: rgb(255, 255, 255)\">The CI/CD environment itself (the servers and systems that run your pipeline) needs to be secure. If this environment is vulnerable, attackers can compromise it to alter builds, inject malicious code, or steal sensitive data.</span></p>\n<p><strong><span style=\"background-color: rgb(255, 255, 255)\">Action Step:</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> Harden your build environments. Use secure containers or virtual machines to minimize the risk of a compromised pipeline.</span></p>\n<h2><strong><span style=\"color: inherit\"><span style=\"background-color: rgb(255, 255, 255)\">Building a Secure CI/CD Pipeline: Defense in Depth</span></span></strong></h2>\n<p><span style=\"background-color: rgb(255, 255, 255)\">To proactively address these vulnerabilities, a layered security approach is key. Here are essential best practices for your CI/CD security strategy:</span></p>\n<ul>\n<li>\n<strong><span style=\"background-color: rgb(255, 255, 255)\">Integrate Security from the Start: Embrace DevSecOps:</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> Adopt a </span><strong><span style=\"background-color: rgb(255, 255, 255)\">DevSecOps</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> mindset. This means building security into </span><em><span style=\"background-color: rgb(255, 255, 255)\">every</span></em><span style=\"background-color: rgb(255, 255, 255)\"> stage of development, from planning to deployment and beyond. This naturally includes embedding security checks into your CI/CD pipeline.</span>\n</li>\n<li>\n<strong><span style=\"background-color: rgb(255, 255, 255)\">Implement Strong Access Controls:</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> Use strict permission policies based on the principle of least privilege. Only grant necessary access to code, pipeline settings, and deployment configurations. Use tools like Multi-Factor Authentication (MFA) and Role-Based Access Control (RBAC) to secure your CI/CD environment.</span>\n</li>\n<li>\n<strong><span style=\"background-color: rgb(255, 255, 255)\">Automate Security Testing Everywhere:</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> Make automated security scans and tests a fundamental part of your build and deployment process. Tools like SAST, Software Composition Analysis (SCA), and DAST are not optional extras \u2013 they are essential for a secure CI/CD pipeline so you can catch vulnerabilities early.</span>\n</li>\n<li>\n<strong><span style=\"background-color: rgb(255, 255, 255)\">Keep Dependencies Updated:</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> Maintain a current inventory of all third-party dependencies, libraries, and CI/CD plugins. Regularly update these components to patch security vulnerabilities (CVEs). Tools like </span><u><span style=\"color: var(--cds-color-blue-700)\"><span style=\"background-color: transparent\"><a href=\"https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide\" rel=\"noopener noreferrer nofollow\">Dependabot</a></span></span></u> and <u><span style=\"color: var(--cds-color-blue-700)\"><span style=\"background-color: transparent\"><a href=\"https://snyk.io/\" rel=\"noopener noreferrer nofollow\">Snyk</a></span></span></u> can automate dependency management.\n</li>\n<li>\n<strong><span style=\"background-color: rgb(255, 255, 255)\">Secure Secrets Management:</span></strong><span style=\"background-color: rgb(255, 255, 255)\"> Never hardcode sensitive information in your code or pipeline configurations. Require the use of dedicated secrets management tools like HashiCorp Vault or AWS Secrets Manager. Securely store, access, and rotate secrets throughout the CI/CD process.</span>\n</li>\n</ul>\n<h2><strong><span style=\"color: inherit\"><span style=\"background-color: rgb(255, 255, 255)\">Conclusion: Secure CI/CD \u2013 Secure Software</span></span></strong></h2>\n<p><span style=\"background-color: rgb(255, 255, 255)\">By proactively addressing these common vulnerabilities and implementing security best practices in your CI/CD pipeline, your software teams can build and release applications with a significantly stronger security posture. A secure CI/CD foundation is crucial for minimizing security risks and building a more resilient overall security strategy for your applications and infrastructure.</span></p>\n<h2><strong><span style=\"color: inherit\"><span style=\"background-color: rgb(255, 255, 255)\">Key takeaways</span></span></strong></h2>\n<p><span style=\"background-color: rgb(255, 255, 255)\">The essence of securing your CI/CD pipeline is to bring robust security to your software release process, enabling engineers to develop, test, and deploy code with confidence and resilience against threats. By building security into your CI/CD, you empower your team to release features, improvements, and critical security updates rapidly and reliably, ensuring software is not only delivered efficiently but also with the highest level of security, proactively protecting your organization and your customers.</span></p>\n<p><strong><span style=\"background-color: rgb(255, 255, 255)\">Resources:</span></strong></p>\n<ol>\n<li>\n<span style=\"background-color: rgb(255, 255, 255)\">DevSecOps Using GitHub Actions: Building Secure CI/CD Pipelines. </span><u><span style=\"color: var(--cds-color-blue-700)\"><span style=\"background-color: transparent\"><a href=\"https://medium.com/@rahulsharan512/devsecops-using-github-actions-building-secure-ci-cd-pipelines-5b6d59acab32\" rel=\"noopener noreferrer nofollow\">https://medium.com/@rahulsharan512/devsecops-using-github-actions-building-secure-ci-cd-pipelines-5b6d59acab32</a></span></span></u>\n</li>\n<li>\n<span style=\"background-color: rgb(255, 255, 255)\">6 Steps for Success with CI/CD Securing Hardening. </span><u><span style=\"color: var(--cds-color-blue-700)\"><span style=\"background-color: transparent\"><a href=\"https://spectralops.io/blog/ci-cd-security-hardening/\" rel=\"noopener noreferrer nofollow\">https://spectralops.io/blog/ci-cd-security-hardening/</a></span></span></u>\n</li>\n<li>\n<span style=\"background-color: rgb(255, 255, 255)\">GitLab CI/CD - Hands-On Lab: Securing Scanning. </span><u><span style=\"color: var(--cds-color-blue-700)\"><span style=\"background-color: transparent\"><a href=\"https://handbook.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab9/\" rel=\"noopener noreferrer nofollow\">https://handbook.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab9/</a></span></span></u>\n</li>\n<li>\n<span style=\"background-color: rgb(255, 255, 255)\">How can you stay current with the latest problem solving techniques in Cloud Computing as a manager. </span><u><span style=\"color: var(--cds-color-blue-700)\"><span style=\"background-color: transparent\"><a href=\"https://www.linkedin.com/advice/1/how-can-you-stay-current-latest-problem-solving-msk5e\" rel=\"noopener noreferrer nofollow\">https://www.linkedin.com/advice/1/how-can-you-stay-current-latest-problem-solving-msk5e</a></span></span></u>\n</li>\n</ol>\n</div>",
+                "tags": [],
+                "collections": [
+                    "ZZZLV8QA"
+                ],
+                "relations": {},
+                "dateAdded": "2025-03-18T12:01:41Z",
+                "dateModified": "2025-03-18T12:11:05Z"
+            }
+        }
+    ],
+    "parsed_items_metadata": [
+        {
+            "itemKey": "Z7JS35XV",
+            "itemType": "attachment",
+            "itemTitle": "02 Final Lab Scan and Fix Vulnerabilities",
+            "itemParentTitle": null,
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: DevOps",
+                    "Collection depth=1: IBM Applied DevOps Engineering Professional Certificate",
+                    "Collection depth=2: C07 Application Security for Developers and DevOps Professionals",
+                    "Collection depth=3: L09 FP Scan and Fix Vulnerabilities"
+                ]
+            ]
+        },
+        {
+            "itemKey": "9CBED9P6",
+            "itemType": "attachment",
+            "itemTitle": "01 Practice Lab Security Vulnerability Scan and Fix",
+            "itemParentTitle": null,
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: DevOps",
+                    "Collection depth=1: IBM Applied DevOps Engineering Professional Certificate",
+                    "Collection depth=2: C07 Application Security for Developers and DevOps Professionals",
+                    "Collection depth=3: L09 FP Scan and Fix Vulnerabilities"
+                ]
+            ]
+        },
+        {
+            "itemKey": "VIS2DSRM",
+            "itemType": "attachment",
+            "itemTitle": "04 CodeQLAnalysis",
+            "itemParentTitle": null,
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: DevOps",
+                    "Collection depth=1: IBM Applied DevOps Engineering Professional Certificate",
+                    "Collection depth=2: C07 Application Security for Developers and DevOps Professionals",
+                    "Collection depth=3: L08 Code Development Practices"
+                ]
+            ]
+        },
+        {
+            "itemKey": "RYER99UE",
+            "itemType": "attachment",
+            "itemTitle": "07 Hands-on Lab Using SNYK to scan your code repository",
+            "itemParentTitle": null,
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: DevOps",
+                    "Collection depth=1: IBM Applied DevOps Engineering Professional Certificate",
+                    "Collection depth=2: C07 Application Security for Developers and DevOps Professionals",
+                    "Collection depth=3: L06 Introducing OWASP Top 10"
+                ]
+            ]
+        },
+        {
+            "itemKey": "8LV92GQI",
+            "itemType": "note",
+            "itemTitle": "06 Demo: Snyk (SAST) Free Tool",
+            "itemParentTitle": null,
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: DevOps",
+                    "Collection depth=1: IBM Applied DevOps Engineering Professional Certificate",
+                    "Collection depth=2: C07 Application Security for Developers and DevOps Professionals",
+                    "Collection depth=3: L06 Introducing OWASP Top 10"
+                ]
+            ]
+        },
+        {
+            "itemKey": "QDHFRD2C",
+            "itemType": "note",
+            "itemTitle": "05 Discover Code Vulnerabilities with Snyk (SAST) Free Tool",
+            "itemParentTitle": null,
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: DevOps",
+                    "Collection depth=1: IBM Applied DevOps Engineering Professional Certificate",
+                    "Collection depth=2: C07 Application Security for Developers and DevOps Professionals",
+                    "Collection depth=3: L06 Introducing OWASP Top 10"
+                ]
+            ]
+        },
+        {
+            "itemKey": "96BC9E2D",
+            "itemType": "note",
+            "itemTitle": "00 Summary and Glossary",
+            "itemParentTitle": null,
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: DevOps",
+                    "Collection depth=1: IBM Applied DevOps Engineering Professional Certificate",
+                    "Collection depth=2: C07 Application Security for Developers and DevOps Professionals",
+                    "Collection depth=3: L05 Implementing Key Analysis in Applications"
+                ]
+            ]
+        },
+        {
+            "itemKey": "MZZD9T6J",
+            "itemType": "note",
+            "itemTitle": "09 Continuous Security Analysis ",
+            "itemParentTitle": null,
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: DevOps",
+                    "Collection depth=1: IBM Applied DevOps Engineering Professional Certificate",
+                    "Collection depth=2: C07 Application Security for Developers and DevOps Professionals",
+                    "Collection depth=3: L05 Implementing Key Analysis in Applications"
+                ]
+            ]
+        },
+        {
+            "itemKey": "L6EPPHT5",
+            "itemType": "note",
+            "itemTitle": "06 Software Component Analysis",
+            "itemParentTitle": null,
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: DevOps",
+                    "Collection depth=1: IBM Applied DevOps Engineering Professional Certificate",
+                    "Collection depth=2: C07 Application Security for Developers and DevOps Professionals",
+                    "Collection depth=3: L05 Implementing Key Analysis in Applications"
+                ]
+            ]
+        },
+        {
+            "itemKey": "X2TXBWV8",
+            "itemType": "note",
+            "itemTitle": "02 Vulnerability Analysis",
+            "itemParentTitle": null,
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: DevOps",
+                    "Collection depth=1: IBM Applied DevOps Engineering Professional Certificate",
+                    "Collection depth=2: C07 Application Security for Developers and DevOps Professionals",
+                    "Collection depth=3: L05 Implementing Key Analysis in Applications"
+                ]
+            ]
+        },
+        {
+            "itemKey": "FJPHKFZJ",
+            "itemType": "note",
+            "itemTitle": "00 Summary and Glossary",
+            "itemParentTitle": null,
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: DevOps",
+                    "Collection depth=1: IBM Applied DevOps Engineering Professional Certificate",
+                    "Collection depth=2: C07 Application Security for Developers and DevOps Professionals",
+                    "Collection depth=3: L03 Inspecting Security in Application Development"
+                ]
+            ]
+        },
+        {
+            "itemKey": "EIF2CE8B",
+            "itemType": "note",
+            "itemTitle": "01 Vulnerability Scanning and Threat Modeling",
+            "itemParentTitle": null,
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: DevOps",
+                    "Collection depth=1: IBM Applied DevOps Engineering Professional Certificate",
+                    "Collection depth=2: C07 Application Security for Developers and DevOps Professionals",
+                    "Collection depth=3: L03 Inspecting Security in Application Development"
+                ]
+            ]
+        },
+        {
+            "itemKey": "38MVYV5Y",
+            "itemType": "note",
+            "itemTitle": "00 Course Glossary",
+            "itemParentTitle": null,
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: DevOps",
+                    "Collection depth=1: IBM Applied DevOps Engineering Professional Certificate",
+                    "Collection depth=2: C07 Application Security for Developers and DevOps Professionals"
+                ]
+            ]
+        },
+        {
+            "itemKey": "4PK2GILU",
+            "itemType": "note",
+            "itemTitle": "02 Vulnerabilities of CI/CD",
+            "itemParentTitle": null,
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: Cybersecurity",
+                    "Collection depth=1: Google Cybersecurity",
+                    "Collection depth=2: C05 Assets, Threats, and Vulnerabilities",
+                    "Collection depth=3: L07 Flaws in the system"
+                ]
+            ]
+        }
+    ]
+}

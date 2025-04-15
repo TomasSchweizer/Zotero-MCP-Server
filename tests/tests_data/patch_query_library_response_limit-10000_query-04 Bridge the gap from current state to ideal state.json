@@ -1,0 +1,710 @@
+{
+    "found_items": [
+        {
+            "key": "X3XT9TP9",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/X3XT9TP9",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/X3XT9TP9",
+                    "type": "text/html"
+                },
+                "up": {
+                    "href": "http://localhost:23119/api/users/11338754/items/UHLPWJUX",
+                    "type": "application/json"
+                },
+                "enclosure": {
+                    "href": "file:///home/schweizer/Zotero/storage/X3XT9TP9/Notes%20on%20A%20tour%20of%20C++.pdf",
+                    "type": "application/pdf",
+                    "title": "Notes on A tour of C++.pdf",
+                    "length": 6062808
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "X3XT9TP9",
+                "version": 0,
+                "itemType": "attachment",
+                "title": "PDF",
+                "parentItem": "UHLPWJUX",
+                "linkMode": "imported_file",
+                "contentType": "application/pdf",
+                "charset": "",
+                "filename": "Notes on A tour of C++.pdf",
+                "tags": [],
+                "relations": {},
+                "dateAdded": "2025-04-04T12:17:30Z",
+                "dateModified": "2025-04-10T11:57:05Z"
+            }
+        },
+        {
+            "key": "PVAV2E24",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/PVAV2E24",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/PVAV2E24",
+                    "type": "text/html"
+                },
+                "enclosure": {
+                    "href": "file:///home/schweizer/Zotero/storage/PVAV2E24/Observability%20Engineering.pdf",
+                    "type": "application/pdf",
+                    "title": "Observability Engineering.pdf",
+                    "length": 8489304
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "PVAV2E24",
+                "version": 0,
+                "itemType": "attachment",
+                "title": "Observability Engineering",
+                "linkMode": "imported_file",
+                "contentType": "application/pdf",
+                "charset": "",
+                "filename": "Observability Engineering.pdf",
+                "tags": [],
+                "collections": [
+                    "NUQDIVRU"
+                ],
+                "relations": {},
+                "dateAdded": "2025-04-04T12:16:05Z",
+                "dateModified": "2025-04-04T12:16:05Z"
+            }
+        },
+        {
+            "key": "DN7X9AYJ",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/DN7X9AYJ",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/DN7X9AYJ",
+                    "type": "text/html"
+                },
+                "enclosure": {
+                    "href": "file:///home/schweizer/Zotero/storage/DN7X9AYJ/Designing%20Data-Intensive%20Applications.pdf",
+                    "type": "application/pdf",
+                    "title": "Designing Data-Intensive Applications.pdf",
+                    "length": 33246954
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "DN7X9AYJ",
+                "version": 0,
+                "itemType": "attachment",
+                "title": "Designing Data-Intensive Applications",
+                "linkMode": "imported_file",
+                "contentType": "application/pdf",
+                "charset": "",
+                "filename": "Designing Data-Intensive Applications.pdf",
+                "tags": [],
+                "collections": [
+                    "BL9PE7EU",
+                    "NUQDIVRU"
+                ],
+                "relations": {},
+                "dateAdded": "2025-04-04T12:12:11Z",
+                "dateModified": "2025-04-04T12:12:11Z"
+            }
+        },
+        {
+            "key": "V6DAJSAR",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/V6DAJSAR",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/V6DAJSAR",
+                    "type": "text/html"
+                },
+                "up": {
+                    "href": "http://localhost:23119/api/users/11338754/items/L7NHC5MY",
+                    "type": "application/json"
+                },
+                "enclosure": {
+                    "href": "file:///home/schweizer/Zotero/storage/V6DAJSAR/munro-et-al-2024-the-handbook-of-data-science-and-ai.pdf",
+                    "type": "application/pdf",
+                    "title": "munro-et-al-2024-the-handbook-of-data-science-and-ai.pdf",
+                    "length": 43132870
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "V6DAJSAR",
+                "version": 0,
+                "itemType": "attachment",
+                "title": "munro-et-al-2024-the-handbook-of-data-science-and-ai",
+                "parentItem": "L7NHC5MY",
+                "linkMode": "imported_file",
+                "contentType": "application/pdf",
+                "charset": "",
+                "filename": "munro-et-al-2024-the-handbook-of-data-science-and-ai.pdf",
+                "tags": [],
+                "relations": {},
+                "dateAdded": "2025-02-24T11:19:11Z",
+                "dateModified": "2025-02-24T11:19:11Z"
+            }
+        },
+        {
+            "key": "LSX2YZVS",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/LSX2YZVS",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/LSX2YZVS",
+                    "type": "text/html"
+                },
+                "up": {
+                    "href": "http://localhost:23119/api/users/11338754/items/ZZV6FURI",
+                    "type": "application/json"
+                },
+                "enclosure": {
+                    "href": "file:///home/schweizer/Zotero/storage/LSX2YZVS/book2.pdf",
+                    "type": "application/pdf",
+                    "title": "book2.pdf",
+                    "length": 151618738
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "LSX2YZVS",
+                "version": 0,
+                "itemType": "attachment",
+                "title": "book2",
+                "parentItem": "ZZV6FURI",
+                "linkMode": "imported_file",
+                "contentType": "application/pdf",
+                "charset": "",
+                "filename": "book2.pdf",
+                "tags": [],
+                "relations": {},
+                "dateAdded": "2025-02-19T20:02:17Z",
+                "dateModified": "2025-02-19T20:02:22Z"
+            }
+        },
+        {
+            "key": "38SVKB7C",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/38SVKB7C",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/38SVKB7C",
+                    "type": "text/html"
+                },
+                "up": {
+                    "href": "http://localhost:23119/api/users/11338754/items/BRIRN8FE",
+                    "type": "application/json"
+                },
+                "enclosure": {
+                    "href": "file:///home/schweizer/Zotero/storage/38SVKB7C/Notes%20on%20Probabilistic%20machine%20learning%20an%20introduction.pdf",
+                    "type": "application/pdf",
+                    "title": "Notes on Probabilistic machine learning an introduction.pdf",
+                    "length": 92323857
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "38SVKB7C",
+                "version": 0,
+                "itemType": "attachment",
+                "title": "PDF",
+                "parentItem": "BRIRN8FE",
+                "linkMode": "imported_file",
+                "contentType": "application/pdf",
+                "charset": "",
+                "filename": "Notes on Probabilistic machine learning an introduction.pdf",
+                "tags": [],
+                "relations": {},
+                "dateAdded": "2025-02-18T19:11:09Z",
+                "dateModified": "2025-02-18T19:11:09Z"
+            }
+        },
+        {
+            "key": "VKXPZ2TL",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/VKXPZ2TL",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/VKXPZ2TL",
+                    "type": "text/html"
+                },
+                "up": {
+                    "href": "http://localhost:23119/api/users/11338754/items/I4TJTTD6",
+                    "type": "application/json"
+                },
+                "enclosure": {
+                    "href": "file:///home/schweizer/Zotero/storage/VKXPZ2TL/Notes%20on%20The%20Elements%20of%20Statistical%20Learning.pdf",
+                    "type": "application/pdf",
+                    "title": "Notes on The Elements of Statistical Learning.pdf",
+                    "length": 18343017
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "VKXPZ2TL",
+                "version": 0,
+                "itemType": "attachment",
+                "title": "Full Text PDF",
+                "url": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-84858-7.pdf",
+                "accessDate": "2025-02-18T17:06:57Z",
+                "parentItem": "I4TJTTD6",
+                "linkMode": "imported_url",
+                "contentType": "application/pdf",
+                "charset": "",
+                "filename": "Notes on The Elements of Statistical Learning.pdf",
+                "tags": [],
+                "relations": {},
+                "dateAdded": "2025-02-18T17:07:01Z",
+                "dateModified": "2025-02-18T17:07:01Z"
+            }
+        },
+        {
+            "key": "SACP9TMY",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/SACP9TMY",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/SACP9TMY",
+                    "type": "text/html"
+                },
+                "up": {
+                    "href": "http://localhost:23119/api/users/11338754/items/QF294YVJ",
+                    "type": "application/json"
+                },
+                "enclosure": {
+                    "href": "file:///home/schweizer/Zotero/storage/SACP9TMY/Notes%20on%20Probabilistic%20numerics%20computation%20as%20machine%20learning.pdf",
+                    "type": "application/pdf",
+                    "title": "Notes on Probabilistic numerics computation as machine learning.pdf",
+                    "length": 4799899
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "SACP9TMY",
+                "version": 0,
+                "itemType": "attachment",
+                "title": "PDF",
+                "parentItem": "QF294YVJ",
+                "linkMode": "imported_file",
+                "contentType": "application/pdf",
+                "charset": "",
+                "filename": "Notes on Probabilistic numerics computation as machine learning.pdf",
+                "tags": [],
+                "relations": {},
+                "dateAdded": "2025-02-13T08:13:01Z",
+                "dateModified": "2025-02-13T08:14:13Z"
+            }
+        },
+        {
+            "key": "9UZHENV9",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/9UZHENV9",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/9UZHENV9",
+                    "type": "text/html"
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "9UZHENV9",
+                "version": 0,
+                "itemType": "note",
+                "note": "<div data-schema-version=\"9\"><h1>04 Bridge the gap from current state to ideal state</h1>\n<p>Business intelligence (BI) professionals use gap analysis to assess the current state of a system and identify areas for improvement to reach the ideal state. They collaborate with stakeholders to understand their needs and determine what the ideal system should look like.</p>\n<p>BI professionals also focus on the context and quality of data. Ensuring data is accurate and meaningful is essential for producing reliable insights that stakeholders can use to make decisions. This involves verifying data sources, removing duplicates, and confirming its integrity.</p>\n<p>A key responsibility is designing systems that organize and automate data processing. These systems make data more accessible, reducing delays and improving efficiency. BI professionals may create workflows or tools that streamline data handling, making it easier for users to access up-to-date information.</p>\n<p>Once improvements are implemented, findings are shared with stakeholders through dashboards or automated tools, enabling real-time access to insights. These tools help users monitor data and take action when needed, such as through alerts for potential delays.</p>\n<p>Finally, BI professionals continue to monitor the system, measure results, and make adjustments as needed. This ongoing process ensures that the system stays aligned with business goals and can adapt to new stakeholder needs.</p>\n<p><span style=\"color: rgb(31, 31, 31)\"><span style=\"background-color: rgb(255, 255, 255)\">A large part of a BI professional's work revolves around identifying how current systems and processes operate, evaluating potential improvements, and implementing them so that the current system is closer to the ideal system state.</span></span></p>\n</div>",
+                "tags": [],
+                "collections": [
+                    "9MTZUQ35"
+                ],
+                "relations": {},
+                "dateAdded": "2025-01-22T15:56:34Z",
+                "dateModified": "2025-01-22T16:08:38Z"
+            }
+        },
+        {
+            "key": "RZNU6MPR",
+            "version": 0,
+            "library": {
+                "type": "user",
+                "id": 11338754,
+                "name": "My Library",
+                "links": {
+                    "self": {
+                        "href": "http://localhost:23119/api/users/11338754",
+                        "type": "application/json"
+                    },
+                    "alternate": {
+                        "href": "https://www.zotero.org/users/11338754",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "links": {
+                "self": {
+                    "href": "http://localhost:23119/api/users/11338754/items/RZNU6MPR",
+                    "type": "application/json"
+                },
+                "alternate": {
+                    "href": "https://www.zotero.org/users/11338754/items/RZNU6MPR",
+                    "type": "text/html"
+                },
+                "up": {
+                    "href": "http://localhost:23119/api/users/11338754/items/6XIBWTX9",
+                    "type": "application/json"
+                },
+                "enclosure": {
+                    "href": "file:///home/schweizer/Zotero/storage/RZNU6MPR/Notes%20on%20Programming%20Massively%20Parallel%20Processors.pdf",
+                    "type": "application/pdf",
+                    "title": "Notes on Programming Massively Parallel Processors.pdf",
+                    "length": 38936896
+                }
+            },
+            "meta": {
+                "numChildren": 0
+            },
+            "data": {
+                "key": "RZNU6MPR",
+                "version": 0,
+                "itemType": "attachment",
+                "title": "PDF",
+                "parentItem": "6XIBWTX9",
+                "linkMode": "imported_file",
+                "contentType": "application/pdf",
+                "charset": "",
+                "filename": "Notes on Programming Massively Parallel Processors.pdf",
+                "tags": [],
+                "relations": {
+                    "owl:sameAs": [
+                        "http://zotero.org/groups/5041896/items/JAYCKVPH"
+                    ]
+                },
+                "dateAdded": "2025-01-15T19:45:07Z",
+                "dateModified": "2025-01-15T19:50:43Z"
+            }
+        }
+    ],
+    "parsed_items_metadata": [
+        {
+            "itemKey": "X3XT9TP9",
+            "itemType": "attachment",
+            "itemTitle": "PDF",
+            "itemParentTitle": "A tour of C++",
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: Other",
+                    "Collection depth=1: Books"
+                ]
+            ]
+        },
+        {
+            "itemKey": "PVAV2E24",
+            "itemType": "attachment",
+            "itemTitle": "Observability Engineering",
+            "itemParentTitle": null,
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: System Design",
+                    "Collection depth=1: Books"
+                ]
+            ]
+        },
+        {
+            "itemKey": "DN7X9AYJ",
+            "itemType": "attachment",
+            "itemTitle": "Designing Data-Intensive Applications",
+            "itemParentTitle": null,
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: System Design"
+                ],
+                [
+                    "Collection depth=0: System Design",
+                    "Collection depth=1: Books"
+                ]
+            ]
+        },
+        {
+            "itemKey": "V6DAJSAR",
+            "itemType": "attachment",
+            "itemTitle": "munro-et-al-2024-the-handbook-of-data-science-and-ai",
+            "itemParentTitle": "The handbook of data science and AI: generate value from data with machine learning and data analytics",
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: Machine Learning",
+                    "Collection depth=1: Books"
+                ]
+            ]
+        },
+        {
+            "itemKey": "LSX2YZVS",
+            "itemType": "attachment",
+            "itemTitle": "book2",
+            "itemParentTitle": "Probabilistic machine learning: (Part2) advanced topics",
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: Machine Learning",
+                    "Collection depth=1: Books"
+                ],
+                [
+                    "Collection depth=0: Machine Learning",
+                    "Collection depth=1: Probabilistic Machine Learning"
+                ]
+            ]
+        },
+        {
+            "itemKey": "38SVKB7C",
+            "itemType": "attachment",
+            "itemTitle": "PDF",
+            "itemParentTitle": "Probabilistic machine learning: (Part1) an introduction",
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: Machine Learning",
+                    "Collection depth=1: Books"
+                ],
+                [
+                    "Collection depth=0: Machine Learning",
+                    "Collection depth=1: Probabilistic Machine Learning"
+                ]
+            ]
+        },
+        {
+            "itemKey": "VKXPZ2TL",
+            "itemType": "attachment",
+            "itemTitle": "Full Text PDF",
+            "itemParentTitle": "The Elements of Statistical Learning",
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: Machine Learning"
+                ],
+                [
+                    "Collection depth=0: Machine Learning",
+                    "Collection depth=1: Books"
+                ]
+            ]
+        },
+        {
+            "itemKey": "SACP9TMY",
+            "itemType": "attachment",
+            "itemTitle": "PDF",
+            "itemParentTitle": "Probabilistic numerics: computation as machine learning",
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: Machine Learning",
+                    "Collection depth=1: Numerics of ML"
+                ]
+            ]
+        },
+        {
+            "itemKey": "9UZHENV9",
+            "itemType": "note",
+            "itemTitle": "04 Bridge the gap from current state to ideal state",
+            "itemParentTitle": null,
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: Data Science / Engineering /Analysis",
+                    "Collection depth=1: Google Business Intelligence Professional Certificate",
+                    "Collection depth=2: C01 Foundations of Business Intelligence",
+                    "Collection depth=3: L10 Move beyond data limitations"
+                ]
+            ]
+        },
+        {
+            "itemKey": "RZNU6MPR",
+            "itemType": "attachment",
+            "itemTitle": "PDF",
+            "itemParentTitle": "Programming Massively Parallel Processors",
+            "itemCollectionNames": [
+                [
+                    "Collection depth=0: Machine Learning",
+                    "Collection depth=1: Parallel Programming",
+                    "Collection depth=2: GPU MODE"
+                ],
+                [
+                    "Collection depth=0: Machine Learning",
+                    "Collection depth=1: Parallel Programming",
+                    "Collection depth=2: GPU MODE",
+                    "Collection depth=3: PMPP Book"
+                ]
+            ]
+        }
+    ]
+}
