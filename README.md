@@ -1,6 +1,8 @@
 # Zotero MCP Server 
 
-Prototype for a Zotero MCP Server, which allows to first search all your Zotero notes via a query and then retrieve the full content of the found specific items. I use the [5ire](https://github.com/nanbingxyz/5ire/tree/main) MCP client as chat interface.
+Prototype for a Zotero MCP Server, which allows to first search all your Zotero notes via a query and then retrieve the full content of the found specific items.
+The interaction with Zotero are based on the API client: [Pyzotero](https://github.com/urschrei/pyzotero).
+I use the [5ire](https://github.com/nanbingxyz/5ire/tree/main) MCP client as chat interface.
 
 Current Functionalities:
 - Search zotero library via query
